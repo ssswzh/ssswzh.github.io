@@ -12,7 +12,7 @@ about:
       href: https://www.linkedin.com/in/siwen-zhang-5121a4a9
     - icon: envelope
       text: Email
-      href: "aristazhang521@outlook.com"
+      href: "to:aristazhang521@outlook.com"
 format:
   html:
     page-layout: full

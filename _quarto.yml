@@ -13,8 +13,8 @@ website:
     left:
       - text: Professional Activities
         href: professional_activities.qmd
-      - text: Projects
-        href: projects.qmd
+      # - text: Projects
+      #   href: projects.qmd
       - text: Skills
         href: personal_skills.qmd
       - text: Publications
@@ -25,7 +25,7 @@ website:
       - icon: github
         href: https://github.com/ssswzh
       - icon: envelope
-        href: "aristazhang521@outlook.com"
+        href: "to:aristazhang521@outlook.com"
 
 format:
   html:

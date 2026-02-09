@@ -6,4 +6,4 @@ format:
     css: styles.css
 ---
 
-> [Download CV (.pdf)](/assets/SiwenZhang_CV.pdf) &emsp; Latest update: January 2026
+> [Download CV (.pdf)](/assets/Resume_SiwenZHANG.pdf) &emsp; Latest update: January 2026
