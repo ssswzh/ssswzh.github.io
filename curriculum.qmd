@@ -1,0 +1,9 @@
+---
+title: "📜 Curriculum Vitae"
+format:
+  html:
+    page-layout: full
+    css: styles.css
+---
+
+> [Download CV (.pdf)](/assets/SiwenZhang_CV.pdf) &emsp; Latest update: January 2026

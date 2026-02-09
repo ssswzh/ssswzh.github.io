@@ -1,0 +1,204 @@
+:root {
+  --imperial-blue: #023A75;
+  --grape: #B38CB4;
+  --brick: #FC440F;
+  --coral: #F67E7D;
+  --orange: #FF8600;
+  --yellow: #FFE66D;
+  --canary: #FFFD82;
+  --air-blue: #6CA6C1;
+  --teal-blue: #437C90;
+  --seaweed: #177E89;
+  --pink: #ff89de;
+  --cyan: #78effd;
+  --lavender: #c58aff;
+  --mint: #a0ffef;
+  --green: #00ff7f;
+  --dark-green: #006400;
+  --dark-blue: #00008b;
+  --dark-purple: #800080;
+  --dark-red: #8b0000;
+  --dark-yellow: #ffd700;
+  --dark-orange: #ff8c00;
+  --purple: #9c6bff;
+}
+
+.horizontal-list {
+  list-style-type: none;
+  padding-left: 0;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.horizontal-list__item {
+  margin-right: 0.5rem;
+  margin-bottom: 0.25rem;
+  font-weight: bold;
+  padding: 0.25rem 0.5rem;
+  border-radius: 0.75rem;
+}
+
+.horizontal-list__item--orange {
+  background-color: var(--orange);
+  color: #fff;
+}
+
+.horizontal-list__item--yellow {
+  background-color: var(--yellow);
+}
+
+.horizontal-list__item--blue {
+  background-color: var(--air-blue);
+}
+
+.horizontal-list__item--imperial-blue {
+  background-color: var(--imperial-blue);
+  color: #fff;
+}
+
+.horizontal-list__item--grape {
+  background-color: var(--grape);
+  color: #fff;
+}
+
+.horizontal-list__item--coral {
+  background-color: var(--coral);
+  color: #fff;
+}
+
+.horizontal-list__item--canary {
+  background-color: var(--canary);
+}
+
+.horizontal-list__item--seaweed {
+  background-color: var(--seaweed);
+  color: #fff;
+}
+
+.horizontal-list__item--teal {
+  background-color: var(--teal-blue);
+  color: #fff;
+}
+
+.horizontal-list__item--air-blue {
+  background-color: var(--air-blue);
+  color: #000;
+}
+
+.horizontal-list__item--dark-green {
+  background-color: var(--dark-green);
+  color: #fff;
+}
+
+.horizontal-list__item--dark-yellow {
+  background-color: var(--dark-yellow);
+  color: #000;
+}
+
+.horizontal-list__item--dark-blue {
+  background-color: var(--dark-blue);
+  color: #fff;
+}
+
+.horizontal-list__item--pink {
+  background-color: var(--pink);
+  color: #fff;
+}
+
+.horizontal-list__item--cyan {
+  background-color: var(--cyan);
+  color: #000;
+}
+
+.horizontal-list__item--lavender {
+  background-color: var(--lavender);
+  color: #fff;
+}
+
+.horizontal-list__item--mint {
+  background-color: var(--mint);
+  color: #000;
+}
+
+.horizontal-list__item--green {
+  background-color: var(--green);
+  color: #000;
+}
+
+.horizontal-list__item--dark-purple {
+  background-color: var(--dark-purple);
+  color: #fff;
+}
+
+.horizontal-list__item--dark-orange {
+  background-color: var(--dark-orange);
+  color: #000;
+}
+
+.horizontal-list__item--purple {
+  background-color: var(--purple);
+  color: #fff;
+}
+
+.horizontal-list__item--orange,
+.horizontal-list__item--yellow,
+.horizontal-list__item--blue,
+.horizontal-list__item--imperial-blue,
+.horizontal-list__item--grape,
+.horizontal-list__item--coral,
+.horizontal-list__item--canary,
+.horizontal-list__item--seaweed,
+.horizontal-list__item--teal {
+  display: inline-block;
+}
+
+.wide-grid {
+  max-width: 1200px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+@media (min-width: 992px) {
+  /* Main article column on pages with a margin TOC. Adjust margin-right to tune space for sidebar. */
+  .page-layout-article main.content {
+    margin-right: 22%;
+    padding-top: 1.5rem;
+  }
+
+  /* About/trestles layout on the homepage. margin-right controls space for the sidebar. */
+  .quarto-about-trestles {
+    margin-right: 10%;
+    padding-top: 0;
+    align-items: flex-start;
+  }
+
+  /* Ensures the bio card aligns to the top. */
+  .quarto-about-trestles .about-entity {
+    align-items: flex-start;
+    margin-top: 0;
+  }
+
+  /* Headshot column inside the trestles layout; width controls photo size. */
+  .quarto-about-trestles .about-image {
+    align-self: flex-start;
+    margin-top: 0;
+  }
+
+  /* Right-hand navigation column ("On this page"). Adjust width/min-width for readability. */
+  #quarto-margin-sidebar {
+    width: 22%;
+    min-width: 240px;
+  }
+
+  /* Top spacing for pages using page-layout: full (e.g., publications). */
+  .page-layout-full main.content {
+    padding-top: 1.5rem;
+  }
+}
+footer.site-footer {
+  background-color: #023a75;
+  color: #ffffff;
+  text-align: center;
+  padding: 1rem 0;
+  font-weight: 600;
+}

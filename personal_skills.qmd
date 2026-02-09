@@ -1,0 +1,177 @@
+---
+title: "🧠 Skills"
+format:
+  html:
+    page-layout: full
+    css: styles.css
+---
+
+Below is a snapshot of the core skills I apply across translational bioinformatics, data science, and workflow engineering. 
+
+```{=html}
+<style>
+.skill-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+.skill-card {
+  text-align: center;
+  padding: 0.75rem;
+  border-radius: 0.75rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background: #fff;
+}
+.skill-card img {
+  width: 60px;
+  height: 60px;
+  object-fit: contain;
+  margin: 0 auto 0.5rem;
+}
+.skill-grid.bio-grid {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+.skill-grid.bio-grid .skill-card {
+  min-height: 190px;
+}
+</style>
+```
+
+## Programming Languages
+
+```{=html}
+<div class="skill-grid">
+  <div class="skill-card">
+    <img src="/assets/skills/logo-programming-python.png" alt="Python icon">
+    <strong>Python</strong>
+  </div>
+  <div class="skill-card">
+    <img src="/assets/skills/logo-programming-Rlanguage.png" alt="R icon">
+    <strong>R</strong>
+  </div>
+  <div class="skill-card">
+    <img src="/assets/skills/logo-programming-shell.png" alt="Shell icon">
+    <strong>Shell scripting</strong>
+  </div>
+  <div class="skill-card">
+    <img src="/assets/skills/logo-programming-sql.png" alt="SQL icon">
+    <strong>SQL (MySQL)</strong>
+  </div>
+  <div class="skill-card">
+    <img src="/assets/skills/logo-programming-CLanguage.png" alt="C icon">
+    <strong>C (basic)</strong>
+  </div>
+    <div class="skill-card">
+    <img src="/assets/skills/logo-programming-Java.png" alt="Java icon">
+    <strong>Java (basic)</strong>
+  </div>
+</div>
+```
+
+## Visualization & Analytics
+
+```{=html}
+<div class="skill-grid">
+  <div class="skill-card">
+    <img src="/assets/skills/logo-visual-matplotlib.png" alt="Matplotlib icon">
+    <strong>Matplotlib</strong>
+  </div>
+  <div class="skill-card">
+    <img src="/assets/skills/logo-visual-seaborn.svg" alt="Seaborn icon">
+    <strong>Seaborn</strong>
+  </div>
+  <div class="skill-card">
+    <img src="/assets/skills/logo-visual-ggplot2.png" alt="ggplot2 icon">
+    <strong>ggplot2</strong>
+  </div>
+  <div class="skill-card">
+    <img src="/assets/skills/logo-visual-Ploty.png" alt="Plotly icon">
+    <strong>Plotly</strong>
+  </div>
+  <div class="skill-card">
+    <img src="/assets/skills/logo-visual-folium.png" alt="Folium icon">
+    <strong>Folium</strong>
+  </div>
+  <div class="skill-card">
+    <img src="/assets/skills/logo-visual-tableau.png" alt="Tableau icon">
+    <strong>Tableau (basic)</strong>
+  </div>
+</div>
+```
+
+## Machine Learning
+
+```{=html}
+<div class="skill-grid">
+  <div class="skill-card">
+    <img src="/assets/skills/logo-ML-scikit_learn.png" alt="Sklearn icon" style="width:78px">
+    <strong>Sci-kit Learn</strong>
+  </div>
+  <div class="skill-card">
+    <img src="/assets/skills/logo-ML-TensorFlow.png" alt="TensorFlow icon">
+    <strong>TensorFlow</strong>
+  </div>
+  <div class="skill-card">
+    <img src="/assets/skills/logo-ML-Keras.png" alt="Keras icon">
+    <strong>Keras</strong>
+  </div>
+  <div class="skill-card">
+    <img src="/assets/skills/logo-ML-huggingface.png" alt="HuggingFace icon">
+    <strong>HuggingFace</strong>
+  </div>
+</div>
+```
+
+
+## Bioinformatics & Omics
+
+```{=html}
+<div class="skill-grid bio-grid">
+  <div class="skill-card">
+    <img src="/assets/skills/logo-bioinfo-genome.png" alt="Genome icon">
+    <strong>Genome<br>(WGS, panels)</strong>
+  </div>
+  <div class="skill-card">
+    <img src="/assets/skills/logo-bioinfo-transcriptome.png" alt="Transcriptome icon">
+    <strong>Transcriptome<br>(RNA-seq)</strong>
+  </div>
+  <div class="skill-card">
+    <img src="/assets/skills/logo-bioinfo-methylome.png" alt="Methylome icon">
+    <strong>Methylome<br>(bisulphite-seq)</strong>
+  </div>
+  <div class="skill-card">
+    <img src="/assets/skills/logo-bioinfo-NGS.png" alt="NGS icon" style="width:90px">
+    <strong>NGS platforms<br>(Illumina, MGI)</strong>
+  </div>
+  <div class="skill-card">
+    <img src="/assets/skills/logo-bioinfo-TGS.png" alt="TGS icon" style="width:90px">
+    <strong>TGS platforms<br>(Nanopore, PacBio)</strong>
+  </div>
+</div>
+```
+
+## Workflow & Automation
+
+```{=html}
+<div class="skill-grid">
+  <div class="skill-card">
+    <img src="/assets/skills/logo-workflow-docker.png" alt="Docker icon" style="width:78px">
+    <strong>Docker</strong>
+  </div>
+  <div class="skill-card">
+    <img src="/assets/skills/logo-workflow-git.svg" alt="Git icon">
+    <strong>Git</strong>
+  </div>
+  <div class="skill-card">
+    <img src="/assets/skills/logo-workflow-wdl_cromwell.png" alt="WDL icon" style="width:90px">
+    <strong>WDL / Cromwell</strong>
+  </div>
+  <div class="skill-card">
+    <img src="/assets/skills/logo-workflow-galaxy_project.png" alt="Galaxy icon">
+    <strong>Galaxy</strong>
+  </div>
+</div>
+```

@@ -1,0 +1,180 @@
+---
+title: "👩‍🏫 Professional Activities"
+format:
+  html:
+    page-layout: full
+    css: styles.css
+---
+
+I facilitate enablement programs so R&D, clinical, and data teams can run complex bioinformatics workflows with confidence. 
+
+Below is a snapshot of my interested fields and topics across recent roles.
+
+
+# Precision Scientific · 2021–2024
+
+**R&D | Middle bioinformatics engineer**
+
+## Cancer auxiliary diagnosis enablement
+`2022-2024`
+
+<ul class="horizontal-list">
+    <li class="horizontal-list__item horizontal-list__item--imperial-blue">MRD</li>
+    <li class="horizontal-list__item horizontal-list__item--dark-orange">HRD</li>
+    <li class="horizontal-list__item horizontal-list__item--lavender">WGD</li>
+    <li class="horizontal-list__item horizontal-list__item--grape">ML</li>
+    <li class="horizontal-list__item horizontal-list__item--pink">Pipeline</li>
+    <li class="horizontal-list__item horizontal-list__item--cyan">Analytics</li>
+</ul>
+
+- Designed and productionized circulating tumor DNA–based Minimal Residule Diesase (MRD) pipelines (study design → feature engineering → data analysis → statistical reporting).
+- Delivered 4 clinical MRD studies and translated results into regulatory-ready reports; one outcome presented at SGO 2024; co-authored 2 manuscripts (one published).
+- Analyzed whole-genome doubling (WGD) using low-pass whole genome sequencing (WGS) in ~1× coverage; standardized WGD definitions across four studies.
+- Built machine learning classifiers using platelet RNA-seq data to differentiate uterine sarcoma vs. leiomyoma; conducted end-to-end analysis workflow (RNA-seq preprocessing → feature engineering → model evaluation → biomarker detection).
+- Contributed to the national HRD reference standard project led by China’s National Institutes for Food and Drug Control.
+
+| [Slides]() | [Pipeline diagram]() | [Example ROC/metrics]()
+
+
+## Cell & gene therapy bioinformatics
+`2023-2024`
+
+<ul class="horizontal-list">
+    <li class="horizontal-list__item horizontal-list__item--seaweed">Cell therapy</li>
+    <li class="horizontal-list__item horizontal-list__item--dark-green">AAV</li>
+    <li class="horizontal-list__item horizontal-list__item--mint">Off-target</li>
+    <li class="horizontal-list__item horizontal-list__item--lavender">CRISPR</li>
+</ul>
+
+- Built analysis workflows for viral integration site mapping, AAV mutation detection, and CRISPR off-target assessments.
+- Support product development and clinical trials for 5 cell & gene therapy products.
+
+| [Slides]() | [Pipeline diagram]() | [Example ROC/metrics]()
+
+
+## Bioinformatics workflow automation
+`2021-2022`
+
+<ul class="horizontal-list">
+    <li class="horizontal-list__item horizontal-list__item--cyan">WDL/Cromwell</li>
+    <li class="horizontal-list__item horizontal-list__item--dark-yellow">Cloud computing</li>
+    <li class="horizontal-list__item horizontal-list__item--purple">Workflow automation</li>
+</ul>
+
+- Designed and productionized an integrated bioinformatics pipeline for cancer genomics using the Workflow Description Language (WDL) and Cromwell; automated data processing and analysis workflows on the cloud (Alibaba Cloud).
+- Developed seperated WDL modules for each step of the pipeline in a high flexible framework, testified and validated the consistency of the pipeline outputs.
+- **Reduced the pipeline runtime by 50% and cost by 50%.**
+
+| [Slides]() | [Pipeline diagram]() | [Example ROC/metrics]()
+
+
+
+# GrandOmics Biosciences · 2019–2021
+
+**R&D | Middle bioinformatics engineer**
+
+## Rare disease diagnosis
+`2019–2021`
+
+<ul class="horizontal-list">
+    <li class="horizontal-list__item horizontal-list__item--orange">TGS</li>
+    <li class="horizontal-list__item horizontal-list__item--dark-green">DMD</li>
+    <li class="horizontal-list__item horizontal-list__item--coral">SNV/InDel</li>
+    <li class="horizontal-list__item horizontal-list__item--teal">SV</li>
+</ul>
+
+- Led development of China’s first targeted capture panel for third-generation sequencing for Duchenne muscular dystrophy (DMD).
+- Achieved improved sensitivity and accuracy for SV, SNV, and InDel detection compared to gold-standard approaches.
+- Realized workflow automation, conducted 4 studies, and published 2 papers.
+
+| [Slides]() | [Pipeline diagram]() | [Performance comparison plots]()
+
+
+## Pathogen surveillance and diagnosis
+`2020-2021`
+
+<ul class="horizontal-list">
+    <li class="horizontal-list__item horizontal-list__item--teal">COVID-19</li>
+    <li class="horizontal-list__item horizontal-list__item--dark-orange">Pathogen</li>
+    <li class="horizontal-list__item horizontal-list__item--grape">Galaxy</li>
+    <li class="horizontal-list__item horizontal-list__item--green">Epidemiology</li>
+</ul>
+
+- Built a Galaxy-based pathogen surveillance system during COVID-19 for mutation tracking, lineage analysis, and visualization
+- Designed targeted amplification kits covering 30 respiratory pathogens.
+- Implemented end-to-end pipelines for identification, automated reporting, and interactive dashboards.
+- Delivered analysis tools accessible to wet-lab and clinical users.
+
+| [Slides]() | [Dashboard demo]() | [Workflow diagram]()
+
+
+## Sequencing technology benchmarking
+`2019-2020`
+
+<ul class="horizontal-list">
+    <li class="horizontal-list__item horizontal-list__item--dark-blue">Nanopore</li>
+    <li class="horizontal-list__item horizontal-list__item--canary">PacBio</li>
+    <li class="horizontal-list__item horizontal-list__item--lavender">Illumina</li>
+    <li class="horizontal-list__item horizontal-list__item--teal">Galaxy</li>
+</ul>
+
+- Conducted systematic benchmarking of basecalling and variant accuracy across sequencing platforms
+- Compared Nanopore R9 vs. R10 chemistry performance
+- Evaluated Nanopore vs. PacBio vs. Illumina for SNV, InDel, and structural variant detection
+
+| [Slides]() | [Accuracy plots]() | [Benchmark report]()
+
+
+
+# Geneis Beijing · 2017–2019
+
+**R&D | Bioinformatics engineer**
+
+## Oncology Assay & Biomarker Panel Development
+`2018–2019`
+
+<ul class="horizontal-list">
+    <li class="horizontal-list__item horizontal-list__item--grape">Targeted sequencing</li>
+    <li class="horizontal-list__item horizontal-list__item--air-blue">CNV</li>
+    <li class="horizontal-list__item horizontal-list__item--coral">MSI</li>
+    <li class="horizontal-list__item horizontal-list__item--mint">Clinical diagnostics</li>
+</ul>
+
+- Developed targeted amplification panel for lung cancer biomarkers; established CNV baseline thresholds using MAD-based normalization.
+- Implemented MSI profiling and visualization for genomic instability assessment
+- Delivered reproducible analysis workflows for clinical reporting.
+
+| [Slides]() | [Panel design]() | [QC plots]()
+
+
+## Multi-omics Analysis in Developmental Biology
+`2017–2018`
+
+<ul class="horizontal-list">
+    <li class="horizontal-list__item horizontal-list__item--seaweed">RNA-seq</li>
+    <li class="horizontal-list__item horizontal-list__item--coral">Methylation</li>
+    <li class="horizontal-list__item horizontal-list__item--lavender">Pathway</li>
+</ul>
+
+- Performed differential expression and methylation analysis of mouse oocytes (in vitro vs. in vivo; GV vs. MII); identified key transcription factors and maturation-associated pathways
+- Integrated transcriptomic and epigenomic signals to characterize developmental regulation.
+- Generated interpretable visualizations and biological summaries for collaborators.
+
+| [Slides]() | [Heatmaps]() | [Pathway analysis]()
+
+
+## Clinical Cancer Genomics & Survival Analysis
+`2017–2018`
+
+<ul class="horizontal-list">
+    <li class="horizontal-list__item horizontal-list__item--mint">Targeted sequencing</li>
+    <li class="horizontal-list__item horizontal-list__item--yellow">SNV/InDel</li>
+    <li class="horizontal-list__item horizontal-list__item--lavender">MSI</li>
+    <li class="horizontal-list__item horizontal-list__item--green">TMB</li>
+</ul>
+
+- Conducted retrospective gastric cancer genomics analysis across SNV, InDel, CNV, MSI, and TMB.
+- Evaluated clinical correlations and survival outcomes using Kaplan–Meier analysis.
+- Supported biomarker interpretation for translational research studies.
+
+| [Slides]() | [KM curves]() | [Cohort report]()

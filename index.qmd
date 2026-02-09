@@ -1,0 +1,82 @@
+---
+title: "Siwen Zhang"
+about:
+  template: trestles
+  image: assets/pictures/profile-picture.jpg
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/ssswzh
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/siwen-zhang-5121a4a9
+    - icon: envelope
+      text: Email
+      href: "aristazhang521@outlook.com"
+format:
+  html:
+    page-layout: full
+    css: styles.css
+---
+
+**Data Scientist & Bioinformatics Engineer based in Amsterdam, focusing on translational medicine and AI-driven health analytics.**
+
+Hi there, welcome to Siwen's website! 
+
+I'm a data scientist with a passion for translating complex biological data into actionable insights. My background in bioinformatics and machine learning has allowed me to develop innovative solutions for a variety of healthcare challenges. I'm excited to share my work and collaborate with others in the field to drive progress in translational medicine.
+
+
+### My story
+
+I design and productionize analytical workflows that translate multi-omics and clinical signals into actionable diagnostics. Over the last seven years I have led machine learning and bioinformatics programs for tumor and rare disease detection, pathogen surveillance, and cell and gene therapy support. I thrive at the interface of R&D and engineering-pairing rigorous statistics with scalable pipelines so clinicians and regulatory teams can trust the science.
+
+Currently, I am preparing for my MSc in Data Science at Leiden University (2025–2027). Previously, as a Middle Bioinformatics Engineer at Precision Scientific and GrandOmics Biosciences, I built MRD analytics, whole-genome doubling QC strategies, targeted capture assays, and pathogen intelligence systems used across oncology and infectious disease portfolios. Earlier, at Geneis Beijing, I co-developed liquid-biopsy MSI assays and translational biomarker pipelines for lung and gastric cancer studies.
+
+I’m open to collaborations around clinical AI, translational data science, and digital health productization-feel free to drop me a note at aristazhang521@outlook.com or call (+31) 0626049080.
+
+
+### Key focus areas
+
+- Translational bioinformatics & computational genomics
+- Liquid biopsy & cfDNA & Minimal residual disease (MRD)
+- Cell therapy & pathogen surveillance data analytics
+- AI/ML for disease diagnostics
+- Multi-omics data integration & visualization
+
+
+### Professional snapshot
+
+- Precision Scientific (2021–2024): Led MRD analytics, viral vector QC, and ML classifiers for gynecological oncology studies; contributed to national HRD reference standards.
+- GrandOmics Biosciences (2019–2021): Built China’s first targeted capture product on long-read sequencing, pathogen surveillance systems on Galaxy, and benchmarking suites across NGS/TGS platforms.
+- Geneis Beijing (2017–2019): Developed targeted amplification panels and CNV/MSI analytics spanning lung, gastric projects, and multi-omic studies on mice germ cells.
+
+
+### Education
+
+- MSc Data Science (Computer Science) - Leiden University, The Netherlands (2025–2027)
+- MSc Bioinformatics - The University of Edinburgh, UK (2015–2016)
+- BEng Biomedical Engineering - Northeastern University, China (2011–2015)
+
+
+### Certifications
+
+- [IBM Data Science Professional Certificate (Coursera)](https://coursera.org/share/87ad6b0ecfb4fbb1e2ce7b34f706cb00)
+
+
+### Further links
+<table width="60%" align="center">
+    <tr>
+        <td>
+            <a href="https://www.researchgate.net/profile/Siwen-Zhang-5?ev=hdr_xprf">
+                <img src="/assets/pictures/researchgate.png" alt="ResearchGate" width="40">
+            </a>
+        </td>
+        <td>
+            <a href="https://orcid.org/0009-0002-5984-0920">
+                <img src="/assets/pictures/ORCID_iD.png" alt="ORCID" width="40">
+            </a>
+        </td>
+    </tr>
+</table>
+
+
