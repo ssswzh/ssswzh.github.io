@@ -16,7 +16,7 @@ Below is a condensed selection of peer-reviewed work and intellectual property r
 [![](/assets/pictures/publication-2024-ovarian_MRD.jpg)](https://doi.org/10.1016/j.ygyno.2024.11.002)
 :::
 ::: {.g-col-12 .g-col-md-6}
-Shu, T., Liang, Y., **Zhang, S.**, *et al.* (**2024**). The prognostic value of tumor-informed minimal residual disease detection using circulating tumor DNA in first-line treatment of ovarian cancer. *Gynecologic Oncology.* [[Link]](https://doi.org/10.1016/j.ygyno.2024.11.002)
+Shu, T., Liang, Y., **Zhang, S.**, *et al.* (**2024**). The prognostic value of tumor-informed minimal residual disease detection using circulating tumor DNA in first-line treatment of ovarian cancer. ***Gynecologic Oncology***. [[Link]](https://doi.org/10.1016/j.ygyno.2024.11.002)
 :::
 
 
@@ -24,7 +24,7 @@ Shu, T., Liang, Y., **Zhang, S.**, *et al.* (**2024**). The prognostic value of 
 [![](/assets/pictures/publication-2021-DMD_intron44.jpg)](https://doi.org/10.3389/fgene.2021.638220)
 :::
 ::: {.g-col-12 .g-col-md-6}
-Geng, C.†, Tong, Y.†, **Zhang, S.**, *et al.* (**2021**). Sequence and structure characteristics of 22 deletion breakpoints in intron 44 of the DMD gene based on long-read sequencing. *Frontiers in Genetics, 12*, 638220. [[Link]](https://doi.org/10.3389/fgene.2021.638220)
+Geng, C.†, Tong, Y.†, **Zhang, S.**, *et al.* (**2021**). Sequence and structure characteristics of 22 deletion breakpoints in intron 44 of the DMD gene based on long-read sequencing. ***Frontiers in Genetics***, *12*, 638220. [[Link]](https://doi.org/10.3389/fgene.2021.638220)
 :::
 
 
@@ -32,7 +32,7 @@ Geng, C.†, Tong, Y.†, **Zhang, S.**, *et al.* (**2021**). Sequence and struc
 [![](/assets/pictures/publication-2021-xlinked-deafness.jpg)](https://doi.org/10.1042/BSR20203740)
 :::
 ::: {.g-col-12 .g-col-md-6}
-Jiang, Y., Wu, L., Huang, S., Li, P., Gao, B., Yuan, Y., **Zhang, S.**, *et al.* (**2021**). Study of complex structural variations of X-linked deafness-2 based on single-molecule sequencing. *Bioscience Reports, 41(6)*, BSR20203740. [[Link]](https://doi.org/10.1042/BSR20203740)
+Jiang, Y., Wu, L., Huang, S., Li, P., Gao, B., Yuan, Y., **Zhang, S.**, *et al.* (**2021**). Study of complex structural variations of X-linked deafness-2 based on single-molecule sequencing. ***Bioscience Reports***, *41(6)*, BSR20203740. [[Link]](https://doi.org/10.1042/BSR20203740)
 :::
 
 
@@ -40,7 +40,7 @@ Jiang, Y., Wu, L., Huang, S., Li, P., Gao, B., Yuan, Y., **Zhang, S.**, *et al.*
 [![](/assets/pictures/publication-2020-DMD-deletions.jpg)](https://doi.org/10.1002/acn3.51201)
 :::
 ::: {.g-col-12 .g-col-md-6}
-Xie, Z., Sun, C., **Zhang, S.**, *et al.* (**2020**). Long-read whole-genome sequencing for the genetic diagnosis of dystrophinopathies. *Annals of Clinical and Translational Neurology, 7(10)*, 2041–2046. [[Link]](https://doi.org/10.1002/acn3.51201)
+Xie, Z., Sun, C., **Zhang, S.**, *et al.* (**2020**). Long-read whole-genome sequencing for the genetic diagnosis of dystrophinopathies. ***Annals of Clinical and Translational Neurology***, *7(10)*, 2041–2046. [[Link]](https://doi.org/10.1002/acn3.51201)
 :::
 
 
@@ -48,7 +48,7 @@ Xie, Z., Sun, C., **Zhang, S.**, *et al.* (**2020**). Long-read whole-genome seq
 [![](/assets/pictures/publication-2020-MSI_liquid_biopsy.jpg)](https://doi.org/10.2174/1574893615666200324133451)
 :::
 ::: {.g-col-12 .g-col-md-6}
-Jiang, Z., Liu, H., **Zhang, S.**, *et al.* (**2020**). A novel method for microsatellite instability detection by liquid biopsy based on next-generation sequencing. *Current Bioinformatics, 15(1).* [[Link]](https://doi.org/10.2174/1574893615666200324133451)
+Jiang, Z., Liu, H., **Zhang, S.**, *et al.* (**2020**). A novel method for microsatellite instability detection by liquid biopsy based on next-generation sequencing. ***Current Bioinformatics***, *15(1)*. [[Link]](https://doi.org/10.2174/1574893615666200324133451)
 :::
 
 
@@ -56,7 +56,7 @@ Jiang, Z., Liu, H., **Zhang, S.**, *et al.* (**2020**). A novel method for micro
 [![](/assets/pictures/publication-2018-SEGF.jpg)](https://doi.org/10.3390/genes9070331)
 :::
 ::: {.g-col-12 .g-col-md-6}
-Xu, H.†, Wu, X.†, Sun, D.†, Li, S.†, **Zhang, S.†**, *et al.* (**2018**). SEGF: A novel method for gene fusion detection from single-end next-generation sequencing data. *Genes, 9(7),* 331. [[Link]](https://doi.org/10.3390/genes9070331)
+Xu, H.†, Wu, X.†, Sun, D.†, Li, S.†, **Zhang, S.†**, *et al.* (**2018**). SEGF: A novel method for gene fusion detection from single-end next-generation sequencing data. ***Genes***, *9(7)*, 331. [[Link]](https://doi.org/10.3390/genes9070331)
 :::
 
 :::
