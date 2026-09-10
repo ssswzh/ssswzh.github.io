@@ -21,11 +21,53 @@
     "text": "Patents\n\nCN112593015B (2023) — Liquid-biopsy–based MRD and MSI analytics for gynecological oncology.\nCN108304693B (2022) — Methods and systems for highly accurate detection of genomic alterations in oncology samples.\nCN108949757B (2021) — Targeted amplification workflow improvements for structural variation profiling via third-generation sequencing."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Siwen Zhang",
+    "objectID": "personal_skills.html",
+    "href": "personal_skills.html",
+    "title": "🧠 Skills",
     "section": "",
-    "text": "AI & Machine Learning | Data Science | Bioinformatics\nHi there, welcome to my website.\nI am a data scientist with 7+ years of bioinformatics engineering experience, now focusing on applied AI and machine learning. My work has always lived where data is noisy, high-dimensional, and consequential: clinical genomics, translational research, diagnostics, and healthcare analytics.\n\nMy story\nMy move toward AI is a natural extension of my bioinformatics work. In biomedical R&D, I learned to build models and pipelines under real constraints: limited samples, heterogeneous signals, strict validation, and decisions that need to be explainable to scientists and clinicians. That experience shaped my interest in machine learning systems that are robust, interpretable, and useful beyond benchmarks.\nProfessionally, I have delivered MRD and HRD analytics for oncology studies, built platelet RNA-seq classifiers for differential diagnosis, developed long-read sequencing workflows for rare disease detection, and created pathogen surveillance systems during COVID-19. I also productionized cloud-based WDL/Cromwell pipelines that reduced runtime and cost by 50%.\nSince fall 2025, I have been pursuing an MSc in Computer Science at Leiden University, specializing in Data Science. Now in my second year, my coursework spans agentic large language models, deep learning, reinforcement learning, AutoML, data mining, information retrieval, recommender systems, text mining, social network analysis, robotics, evolutionary algorithms, and optimization. My first-year average is 8.58 across 12 courses.\nI am currently seeking an AI or machine learning internship where I can combine rigorous data science, software engineering, and domain-aware problem solving.\n\n\nKey focus areas\n\nApplied machine learning and predictive modeling\nLarge language models and agentic AI\nInformation retrieval, recommender systems, and text mining\nScientific and healthcare data science\nTranslational bioinformatics and computational genomics\n\n\n\nProfessional snapshot\n\nPrecision Scientific (2021–2024): Delivered MRD/HRD analytics for oncology studies, built platelet RNA-seq ML classifiers, supported 5 cell and gene therapy products, and contributed to national reference-standard work.\nGrandOmics Biosciences (2019–2021): Led long-read targeted sequencing development for rare disease diagnosis, built COVID-19 pathogen surveillance workflows, and benchmarked Nanopore, PacBio, and Illumina platforms.\nGeneis Beijing (2017–2019): Developed oncology biomarker assays and reproducible genomic workflows for CNV, MSI, TMB, survival analysis, and multi-omics interpretation.\n\n\n\nEducation\n\nMSc Data Science (Computer Science) - Leiden University, The Netherlands (2025–2027)\nMSc Bioinformatics - The University of Edinburgh, UK (2015–2016)\nBEng Biomedical Engineering - Northeastern University, China (2011–2015)\n\n\n\nCertifications\n\nIBM Data Science Professional Certificate (Coursera)\n\n\n\nFurther links"
+    "text": "Below is a snapshot of the core skills I apply across translational bioinformatics, data science, and workflow engineering."
+  },
+  {
+    "objectID": "personal_skills.html#programming-languages",
+    "href": "personal_skills.html#programming-languages",
+    "title": "🧠 Skills",
+    "section": "Programming Languages",
+    "text": "Programming Languages\n\n  \n    \n    Python\n  \n  \n    \n    R\n  \n  \n    \n    Shell scripting\n  \n  \n    \n    SQL (MySQL)\n  \n  \n    \n    C (basic)\n  \n    \n    \n    Java (basic)"
+  },
+  {
+    "objectID": "personal_skills.html#visualization-analytics",
+    "href": "personal_skills.html#visualization-analytics",
+    "title": "🧠 Skills",
+    "section": "Visualization & Analytics",
+    "text": "Visualization & Analytics\n\n  \n    \n    Matplotlib\n  \n  \n    \n    Seaborn\n  \n  \n    \n    ggplot2\n  \n  \n    \n    Plotly\n  \n  \n    \n    Folium\n  \n  \n    \n    Tableau (basic)"
+  },
+  {
+    "objectID": "personal_skills.html#machine-learning",
+    "href": "personal_skills.html#machine-learning",
+    "title": "🧠 Skills",
+    "section": "Machine Learning",
+    "text": "Machine Learning\n\n  \n    \n    Sci-kit Learn\n  \n  \n    \n    TensorFlow\n  \n  \n    \n    Keras\n  \n  \n    \n    PyTorch\n  \n  \n    \n    HuggingFace"
+  },
+  {
+    "objectID": "personal_skills.html#bioinformatics-omics",
+    "href": "personal_skills.html#bioinformatics-omics",
+    "title": "🧠 Skills",
+    "section": "Bioinformatics & Omics",
+    "text": "Bioinformatics & Omics\n\n  \n    \n    Genome(WGS, panels)\n  \n  \n    \n    Transcriptome(RNA-seq)\n  \n  \n    \n    Methylome(bisulphite-seq)\n  \n  \n    \n    NGS platforms(Illumina, MGI)\n  \n  \n    \n    TGS platforms(Nanopore, PacBio)"
+  },
+  {
+    "objectID": "personal_skills.html#workflow-automation",
+    "href": "personal_skills.html#workflow-automation",
+    "title": "🧠 Skills",
+    "section": "Workflow & Automation",
+    "text": "Workflow & Automation\n\n  \n    \n    Docker\n  \n  \n    \n    Git\n  \n  \n    \n    WDL / Cromwell\n  \n  \n    \n    Galaxy"
+  },
+  {
+    "objectID": "curriculum.html",
+    "href": "curriculum.html",
+    "title": "📜 Resumé",
+    "section": "",
+    "text": "Download CV (.pdf)   Latest update: January 2026\n\n\nView First Year Transcript (.pdf)   Latest update: September 2026"
   },
   {
     "objectID": "bioinformatics.html",
@@ -98,53 +140,11 @@
     "text": "Clinical Cancer Genomics & Survival Analysis\n2017–2018\n\n\nTargeted sequencing\n\n\nSNV/InDel\n\n\nMSI\n\n\nTMB\n\n\n\nConducted retrospective gastric cancer genomics analysis across SNV, InDel, CNV, MSI, and TMB.\nEvaluated clinical correlations and survival outcomes using Kaplan–Meier analysis.\nSupported biomarker interpretation for translational research studies.\n\nSlides | KM curves | Cohort report"
   },
   {
-    "objectID": "curriculum.html",
-    "href": "curriculum.html",
-    "title": "📜 Resumé",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Siwen Zhang",
     "section": "",
-    "text": "Download CV (.pdf)   Latest update: January 2026\n\n\nView First Year Transcript (.pdf)   Latest update: September 2026"
-  },
-  {
-    "objectID": "personal_skills.html",
-    "href": "personal_skills.html",
-    "title": "🧠 Skills",
-    "section": "",
-    "text": "Below is a snapshot of the core skills I apply across translational bioinformatics, data science, and workflow engineering."
-  },
-  {
-    "objectID": "personal_skills.html#programming-languages",
-    "href": "personal_skills.html#programming-languages",
-    "title": "🧠 Skills",
-    "section": "Programming Languages",
-    "text": "Programming Languages\n\n  \n    \n    Python\n  \n  \n    \n    R\n  \n  \n    \n    Shell scripting\n  \n  \n    \n    SQL (MySQL)\n  \n  \n    \n    C (basic)\n  \n    \n    \n    Java (basic)"
-  },
-  {
-    "objectID": "personal_skills.html#visualization-analytics",
-    "href": "personal_skills.html#visualization-analytics",
-    "title": "🧠 Skills",
-    "section": "Visualization & Analytics",
-    "text": "Visualization & Analytics\n\n  \n    \n    Matplotlib\n  \n  \n    \n    Seaborn\n  \n  \n    \n    ggplot2\n  \n  \n    \n    Plotly\n  \n  \n    \n    Folium\n  \n  \n    \n    Tableau (basic)"
-  },
-  {
-    "objectID": "personal_skills.html#machine-learning",
-    "href": "personal_skills.html#machine-learning",
-    "title": "🧠 Skills",
-    "section": "Machine Learning",
-    "text": "Machine Learning\n\n  \n    \n    Sci-kit Learn\n  \n  \n    \n    TensorFlow\n  \n  \n    \n    Keras\n  \n  \n    \n    PyTorch\n  \n  \n    \n    HuggingFace"
-  },
-  {
-    "objectID": "personal_skills.html#bioinformatics-omics",
-    "href": "personal_skills.html#bioinformatics-omics",
-    "title": "🧠 Skills",
-    "section": "Bioinformatics & Omics",
-    "text": "Bioinformatics & Omics\n\n  \n    \n    Genome(WGS, panels)\n  \n  \n    \n    Transcriptome(RNA-seq)\n  \n  \n    \n    Methylome(bisulphite-seq)\n  \n  \n    \n    NGS platforms(Illumina, MGI)\n  \n  \n    \n    TGS platforms(Nanopore, PacBio)"
-  },
-  {
-    "objectID": "personal_skills.html#workflow-automation",
-    "href": "personal_skills.html#workflow-automation",
-    "title": "🧠 Skills",
-    "section": "Workflow & Automation",
-    "text": "Workflow & Automation\n\n  \n    \n    Docker\n  \n  \n    \n    Git\n  \n  \n    \n    WDL / Cromwell\n  \n  \n    \n    Galaxy"
+    "text": "AI & Machine Learning | Data Science | Bioinformatics\nHi there, welcome to my website.\nI am a data scientist with 7+ years of bioinformatics engineering experience, now focusing on applied AI and machine learning. My work has always lived where data is noisy, high-dimensional, and consequential: clinical genomics, translational research, diagnostics, and healthcare analytics.\n\nMy story\nMy move toward AI is a natural extension of my bioinformatics work. In biomedical R&D, I learned to build models and pipelines under real constraints: limited samples, heterogeneous signals, strict validation, and decisions that need to be explainable to scientists and clinicians. That experience shaped my interest in machine learning systems that are robust, interpretable, and useful beyond benchmarks.\nProfessionally, I have delivered MRD and HRD analytics for oncology studies, built platelet RNA-seq classifiers for differential diagnosis, developed long-read sequencing workflows for rare disease detection, and created pathogen surveillance systems during COVID-19. I also productionized cloud-based WDL/Cromwell pipelines that reduced runtime and cost by 50%.\nSince fall 2025, I have been pursuing an MSc in Computer Science at Leiden University, specializing in Data Science. Now in my second year, my coursework spans agentic large language models, deep learning, reinforcement learning, AutoML, data mining, information retrieval, recommender systems, text mining, social network analysis, robotics, evolutionary algorithms, and optimization. My first-year average is 8.58 across 12 courses.\nI am currently seeking an AI or machine learning internship where I can combine rigorous data science, software engineering, and domain-aware problem solving.\n\n\nKey focus areas\n\nApplied machine learning and predictive modeling\nLarge language models and agentic AI\nInformation retrieval, recommender systems, and text mining\nScientific and healthcare data science\nTranslational bioinformatics and computational genomics\n\n\n\nProfessional snapshot\n\nPrecision Scientific (2021–2024): Delivered MRD/HRD analytics for oncology studies, built platelet RNA-seq ML classifiers, supported 5 cell and gene therapy products, and contributed to national reference-standard work.\nGrandOmics Biosciences (2019–2021): Led long-read targeted sequencing development for rare disease diagnosis, built COVID-19 pathogen surveillance workflows, and benchmarked Nanopore, PacBio, and Illumina platforms.\nGeneis Beijing (2017–2019): Developed oncology biomarker assays and reproducible genomic workflows for CNV, MSI, TMB, survival analysis, and multi-omics interpretation.\n\n\n\nEducation\n\nMSc Data Science (Computer Science) - Leiden University, The Netherlands (2025–2027)\nMSc Bioinformatics - The University of Edinburgh, UK (2015–2016)\nBEng Biomedical Engineering - Northeastern University, China (2011–2015)\n\n\n\nCertifications\n\nIBM Data Science Professional Certificate (Coursera)\n\n\n\nFurther links"
   },
   {
     "objectID": "projects.html",
