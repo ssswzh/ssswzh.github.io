@@ -1,5 +1,5 @@
 ---
-title: "📜 Curriculum Vitae"
+title: "📜 Resumé"
 format:
   html:
     page-layout: full
@@ -7,3 +7,5 @@ format:
 ---
 
 > [Download CV (.pdf)](/assets/Resume_SiwenZHANG.pdf) &emsp; Latest update: January 2026
+
+> [View First Year Transcript (.pdf)](/assets/assets/Transcript_first_year-ZHANG.pdf) &emsp; Latest update: September 2026
