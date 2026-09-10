@@ -1,5 +1,5 @@
 ---
-title: "🎙 Outreach"
+title: "💻 Projects"
 format:
   html:
     page-layout: full
@@ -8,27 +8,16 @@ format:
 
 I enjoy sharing applied bioinformatics lessons with clinical, regulatory, and engineering teams. Here are a few recent engagements.
 
-## Conference talks & panels
+## Bioinformatics Projects
 
-### SGO 2024 · MRD analytics for gynecologic oncology
-`March 2024 | San Diego & Virtual`
+### MRD analytics for gynecologic oncology
+`March 2024 | `
 
 - Presented platelet RNA-seq classifiers and tumor-informed ctDNA MRD workflows that support real-time decision-making for ovarian cancer trials.
 - Highlighted lessons on cohort design, assay sensitivity, and explainable ML for translational research teams.
 
-### National HRD reference standard initiative
-`2023 | Beijing`
 
-- Collaborated with China’s National Institutes for Food and Drug Control to define analytical validation requirements for homologous recombination deficiency (HRD).
-- Co-led technical deep dives covering low-pass WGS (~1×) data, WGD definition harmonization, and reporting templates for regulators.
-
-### Precision medicine roundtables
-`2022–2024 | Amsterdam / Remote`
-
-- Regularly briefed hospital partners on integrating viral integration site mapping, AAV mutation detection, and CRISPR off-target analytics into their IND-enabling studies.
-- Provided actionable checklists for tech transfer, data governance, and reproducibility.
-
-## Community & industry initiatives
+## Machine Learning Projects
 
 ### Pathogen intelligence system for COVID-19
 `2020 | GrandOmics Biosciences`

@@ -25,7 +25,7 @@
     "href": "professional_activities.html",
     "title": "👩‍🏫 Professional Activities",
     "section": "",
-    "text": "I facilitate enablement programs so R&D, clinical, and data teams can run complex bioinformatics workflows with confidence.\nBelow is a snapshot of my interested fields and topics across recent roles."
+    "text": "I build end-to-end analytical solutions that turn complex biomedical data into reliable, actionable insights. Across my roles, I have focused on solving difficult problems in translational genomics, clinical analytics, and scalable data workflows—often combining statistical modeling, workflow engineering, and domain expertise to improve decision quality and operational efficiency.\nBelow is a concise summary of the outcomes and impact from my recent roles."
   },
   {
     "objectID": "professional_activities.html#cancer-auxiliary-diagnosis-enablement",
@@ -95,7 +95,7 @@
     "href": "index.html",
     "title": "Siwen Zhang",
     "section": "",
-    "text": "Data Scientist & Bioinformatics Engineer based in Amsterdam, focusing on translational medicine and AI-driven health analytics.\nHi there, welcome to Siwen’s website!\nI’m a data scientist with a passion for translating complex biological data into actionable insights. My background in bioinformatics and machine learning has allowed me to develop innovative solutions for a variety of healthcare challenges. I’m excited to share my work and collaborate with others in the field to drive progress in translational medicine.\n\nMy story\nI design and productionize analytical workflows that translate multi-omics and clinical signals into actionable diagnostics. Over the last seven years I have led machine learning and bioinformatics programs for tumor and rare disease detection, pathogen surveillance, and cell and gene therapy support. I thrive at the interface of R&D and engineering-pairing rigorous statistics with scalable pipelines so clinicians and regulatory teams can trust the science.\nCurrently, I am preparing for my MSc in Data Science at Leiden University (2025–2027). Previously, as a Middle Bioinformatics Engineer at Precision Scientific and GrandOmics Biosciences, I built MRD analytics, whole-genome doubling QC strategies, targeted capture assays, and pathogen intelligence systems used across oncology and infectious disease portfolios. Earlier, at Geneis Beijing, I co-developed liquid-biopsy MSI assays and translational biomarker pipelines for lung and gastric cancer studies.\nI’m open to collaborations around clinical AI, translational data science, and digital health productization-feel free to drop me a note at aristazhang521@outlook.com or call (+31) 0626049080.\n\n\nKey focus areas\n\nTranslational bioinformatics & computational genomics\nLiquid biopsy & cfDNA & Minimal residual disease (MRD)\nCell therapy & pathogen surveillance data analytics\nAI/ML for disease diagnostics\nMulti-omics data integration & visualization\n\n\n\nProfessional snapshot\n\nPrecision Scientific (2021–2024): Led MRD analytics, viral vector QC, and ML classifiers for gynecological oncology studies; contributed to national HRD reference standards.\nGrandOmics Biosciences (2019–2021): Built China’s first targeted capture product on long-read sequencing, pathogen surveillance systems on Galaxy, and benchmarking suites across NGS/TGS platforms.\nGeneis Beijing (2017–2019): Developed targeted amplification panels and CNV/MSI analytics spanning lung, gastric projects, and multi-omic studies on mice germ cells.\n\n\n\nEducation\n\nMSc Data Science (Computer Science) - Leiden University, The Netherlands (2025–2027)\nMSc Bioinformatics - The University of Edinburgh, UK (2015–2016)\nBEng Biomedical Engineering - Northeastern University, China (2011–2015)\n\n\n\nCertifications\n\nIBM Data Science Professional Certificate (Coursera)\n\n\n\nFurther links"
+    "text": "Data Scientist | AI & Machine Learning | Bioinformatics\nHi there, welcome to my website.\nI am a data scientist and bioinformatics engineer transitioning into applied AI and machine learning. Over the past seven years, I have built data-driven solutions for high-dimensional biomedical problems, spanning genomics, clinical diagnostics, translational research, and healthcare analytics. My work has consistently combined statistical rigor, software engineering, and domain expertise to turn complex biological signals into interpretable and actionable insights.\n\nMy story\nMy background in bioinformatics is not separate from my interest in AI—it is the foundation for it. In clinical and translational research, I have worked with noisy, heterogeneous, and high-dimensional data, where robust feature engineering, model validation, and clear communication are essential. That experience shaped my interest in machine learning for scientific and real-world decision support.\nI have led analytical workflows for minimal residual disease (MRD), biomarker discovery, viral vector and cellular therapy QC, pathogen surveillance, and multi-omics analysis. In these roles, I developed and productionized pipelines that supported clinical studies, translational projects, and regulatory-ready reporting. These projects taught me how to translate technical work into measurable outcomes: improving assay sensitivity, reducing pipeline cost and runtime, supporting oncology studies, and enabling data-driven decision making in biomedical R&D.\nSince 2025, I have been pursuing an MSc in Data Science at Leiden University, majoring in Computer Science. My coursework has strengthened my machine learning foundation in areas including agentic LLMs, deep learning, reinforcement learning, information retrieval, recommender systems, AutoML, evolutionary algorithms, social network analysis, and optimization. My average grade in the first year is 8.58 across 12 courses, reflecting a strong academic basis for an AI-focused transition.\nI am now looking to apply my background in bioinformatics, data science, and ML to internship opportunities in AI, data science, and applied machine learning, particularly in healthcare, scientific computing, and intelligent decision-support systems.\n\n\nKey focus areas\n\nApplied machine learning & predictive modeling\nLarge language models & agentic AI\nClinical and scientific data science\nTranslational bioinformatics & computational genomics\nMulti-omics data integration & diagnostics\n\n\n\nProfessional snapshot\n\nPrecision Scientific (2021–2024): Delivered MRD and HRD analytics for oncology studies; built ML classifiers, developed clinical-ready reporting pipelines, and contributed to national reference-standard work.\nGrandOmics Biosciences (2019–2021): Led targeted sequencing development, designed pathogen surveillance systems, and benchmarked sequencing technologies for rare disease and infectious disease applications.\nGeneis Beijing (2017–2019): Developed cancer biomarker assays and translational genomic pipelines for lung and gastric cancer studies, with a focus on CNV/MSI/TMB analyses and clinical interpretation.\n\n\n\nEducation\n\nMSc Data Science (Computer Science) - Leiden University, The Netherlands (2025–2027)\nMSc Bioinformatics - The University of Edinburgh, UK (2015–2016)\nBEng Biomedical Engineering - Northeastern University, China (2011–2015)\n\n\n\nCertifications\n\nIBM Data Science Professional Certificate (Coursera)\n\n\n\nFurther links"
   },
   {
     "objectID": "curriculum.html",
@@ -130,7 +130,7 @@
     "href": "personal_skills.html#machine-learning",
     "title": "🧠 Skills",
     "section": "Machine Learning",
-    "text": "Machine Learning\n\n  \n    \n    Sci-kit Learn\n  \n  \n    \n    TensorFlow\n  \n  \n    \n    Keras\n  \n  \n    \n    HuggingFace"
+    "text": "Machine Learning\n\n  \n    \n    Sci-kit Learn\n  \n  \n    \n    TensorFlow\n  \n  \n    \n    Keras\n  \n  \n    \n    PyTorch\n  \n  \n    \n    HuggingFace"
   },
   {
     "objectID": "personal_skills.html#bioinformatics-omics",
@@ -149,22 +149,22 @@
   {
     "objectID": "projects.html",
     "href": "projects.html",
-    "title": "🎙 Outreach",
+    "title": "💻 Projects",
     "section": "",
     "text": "I enjoy sharing applied bioinformatics lessons with clinical, regulatory, and engineering teams. Here are a few recent engagements."
   },
   {
-    "objectID": "projects.html#conference-talks-panels",
-    "href": "projects.html#conference-talks-panels",
-    "title": "🎙 Outreach",
-    "section": "Conference talks & panels",
-    "text": "Conference talks & panels\n\nSGO 2024 · MRD analytics for gynecologic oncology\nMarch 2024 | San Diego & Virtual\n\nPresented platelet RNA-seq classifiers and tumor-informed ctDNA MRD workflows that support real-time decision-making for ovarian cancer trials.\nHighlighted lessons on cohort design, assay sensitivity, and explainable ML for translational research teams.\n\n\n\nNational HRD reference standard initiative\n2023 | Beijing\n\nCollaborated with China’s National Institutes for Food and Drug Control to define analytical validation requirements for homologous recombination deficiency (HRD).\nCo-led technical deep dives covering low-pass WGS (~1×) data, WGD definition harmonization, and reporting templates for regulators.\n\n\n\nPrecision medicine roundtables\n2022–2024 | Amsterdam / Remote\n\nRegularly briefed hospital partners on integrating viral integration site mapping, AAV mutation detection, and CRISPR off-target analytics into their IND-enabling studies.\nProvided actionable checklists for tech transfer, data governance, and reproducibility."
+    "objectID": "projects.html#bioinformatics-projects",
+    "href": "projects.html#bioinformatics-projects",
+    "title": "💻 Projects",
+    "section": "Bioinformatics Projects",
+    "text": "Bioinformatics Projects\n\nMRD analytics for gynecologic oncology\nMarch 2024 |\n\nPresented platelet RNA-seq classifiers and tumor-informed ctDNA MRD workflows that support real-time decision-making for ovarian cancer trials.\nHighlighted lessons on cohort design, assay sensitivity, and explainable ML for translational research teams."
   },
   {
-    "objectID": "projects.html#community-industry-initiatives",
-    "href": "projects.html#community-industry-initiatives",
-    "title": "🎙 Outreach",
-    "section": "Community & industry initiatives",
-    "text": "Community & industry initiatives\n\nPathogen intelligence system for COVID-19\n2020 | GrandOmics Biosciences\n\nBuilt a Galaxy-based infrastructure for mutation tracking, lineage analysis, and metagenomic detection that was shared with epidemiology teams across China.\nConducted virtual workshops so public-health collaborators could customize dashboards and standardized reports.\n\n\n\nOpen-source knowledge sharing\nOngoing\n\nPublish reproducible notebooks showcasing WDL/Cromwell, Galaxy, and Python/R best practices for MRD, MSI, and pathogen surveillance projects.\nParticipate in GitHub and ResearchGate discussions focused on sequencing QC, workflow automation, and translational ML."
+    "objectID": "projects.html#machine-learning-projects",
+    "href": "projects.html#machine-learning-projects",
+    "title": "💻 Projects",
+    "section": "Machine Learning Projects",
+    "text": "Machine Learning Projects\n\nPathogen intelligence system for COVID-19\n2020 | GrandOmics Biosciences\n\nBuilt a Galaxy-based infrastructure for mutation tracking, lineage analysis, and metagenomic detection that was shared with epidemiology teams across China.\nConducted virtual workshops so public-health collaborators could customize dashboards and standardized reports.\n\n\n\nOpen-source knowledge sharing\nOngoing\n\nPublish reproducible notebooks showcasing WDL/Cromwell, Galaxy, and Python/R best practices for MRD, MSI, and pathogen surveillance projects.\nParticipate in GitHub and ResearchGate discussions focused on sequencing QC, workflow automation, and translational ML."
   }
 ]

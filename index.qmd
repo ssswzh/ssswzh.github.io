@@ -12,44 +12,42 @@ about:
       href: https://www.linkedin.com/in/siwen-zhang-5121a4a9
     - icon: envelope
       text: Email
-      href: "to:aristazhang521@outlook.com"
+      href: "mailto:aristazhang521@outlook.com"
 format:
   html:
     page-layout: full
     css: styles.css
 ---
 
-**Data Scientist & Bioinformatics Engineer based in Amsterdam, focusing on translational medicine and AI-driven health analytics.**
+**Data Scientist | AI & Machine Learning | Bioinformatics**
 
-Hi there, welcome to Siwen's website! 
+Hi there, welcome to my website.
 
-I'm a data scientist with a passion for translating complex biological data into actionable insights. My background in bioinformatics and machine learning has allowed me to develop innovative solutions for a variety of healthcare challenges. I'm excited to share my work and collaborate with others in the field to drive progress in translational medicine.
-
+I am a data scientist and bioinformatics engineer transitioning into applied AI and machine learning. Over the past seven years, I have built data-driven solutions for high-dimensional biomedical problems, spanning genomics, clinical diagnostics, translational research, and healthcare analytics. My work has consistently combined statistical rigor, software engineering, and domain expertise to turn complex biological signals into interpretable and actionable insights.
 
 ### My story
 
-I design and productionize analytical workflows that translate multi-omics and clinical signals into actionable diagnostics. Over the last seven years I have led machine learning and bioinformatics programs for tumor and rare disease detection, pathogen surveillance, and cell and gene therapy support. I thrive at the interface of R&D and engineering-pairing rigorous statistics with scalable pipelines so clinicians and regulatory teams can trust the science.
+My background in bioinformatics is not separate from my interest in AI—it is the foundation for it. In clinical and translational research, I have worked with noisy, heterogeneous, and high-dimensional data, where robust feature engineering, model validation, and clear communication are essential. That experience shaped my interest in machine learning for scientific and real-world decision support.
 
-Currently, I am preparing for my MSc in Data Science at Leiden University (2025–2027). Previously, as a Middle Bioinformatics Engineer at Precision Scientific and GrandOmics Biosciences, I built MRD analytics, whole-genome doubling QC strategies, targeted capture assays, and pathogen intelligence systems used across oncology and infectious disease portfolios. Earlier, at Geneis Beijing, I co-developed liquid-biopsy MSI assays and translational biomarker pipelines for lung and gastric cancer studies.
+I have led analytical workflows for minimal residual disease (MRD), biomarker discovery, viral vector and cellular therapy QC, pathogen surveillance, and multi-omics analysis. In these roles, I developed and productionized pipelines that supported clinical studies, translational projects, and regulatory-ready reporting. These projects taught me how to translate technical work into measurable outcomes: improving assay sensitivity, reducing pipeline cost and runtime, supporting oncology studies, and enabling data-driven decision making in biomedical R&D.
 
-I’m open to collaborations around clinical AI, translational data science, and digital health productization-feel free to drop me a note at aristazhang521@outlook.com or call (+31) 0626049080.
+Since 2025, I have been pursuing an MSc in Data Science at Leiden University, majoring in Computer Science. My coursework has strengthened my machine learning foundation in areas including agentic LLMs, deep learning, reinforcement learning, information retrieval, recommender systems, AutoML, evolutionary algorithms, social network analysis, and optimization. My average grade in the first year is 8.58 across 12 courses, reflecting a strong academic basis for an AI-focused transition.
 
+I am now looking to apply my background in bioinformatics, data science, and ML to internship opportunities in AI, data science, and applied machine learning, particularly in healthcare, scientific computing, and intelligent decision-support systems.
 
 ### Key focus areas
 
+- Applied machine learning & predictive modeling
+- Large language models & agentic AI
+- Clinical and scientific data science
 - Translational bioinformatics & computational genomics
-- Liquid biopsy & cfDNA & Minimal residual disease (MRD)
-- Cell therapy & pathogen surveillance data analytics
-- AI/ML for disease diagnostics
-- Multi-omics data integration & visualization
-
+- Multi-omics data integration & diagnostics
 
 ### Professional snapshot
 
-- Precision Scientific (2021–2024): Led MRD analytics, viral vector QC, and ML classifiers for gynecological oncology studies; contributed to national HRD reference standards.
-- GrandOmics Biosciences (2019–2021): Built China’s first targeted capture product on long-read sequencing, pathogen surveillance systems on Galaxy, and benchmarking suites across NGS/TGS platforms.
-- Geneis Beijing (2017–2019): Developed targeted amplification panels and CNV/MSI analytics spanning lung, gastric projects, and multi-omic studies on mice germ cells.
-
+- Precision Scientific (2021–2024): Delivered MRD and HRD analytics for oncology studies; built ML classifiers, developed clinical-ready reporting pipelines, and contributed to national reference-standard work.
+- GrandOmics Biosciences (2019–2021): Led targeted sequencing development, designed pathogen surveillance systems, and benchmarked sequencing technologies for rare disease and infectious disease applications.
+- Geneis Beijing (2017–2019): Developed cancer biomarker assays and translational genomic pipelines for lung and gastric cancer studies, with a focus on CNV/MSI/TMB analyses and clinical interpretation.
 
 ### Education
 

@@ -11,7 +11,7 @@ website:
     background: "#023a75ff"
     foreground: "#ffffffff"
     left:
-      - text: Professional Activities
+      - text: Bioinformatics
         href: professional_activities.qmd
       # - text: Projects
       #   href: projects.qmd
@@ -19,13 +19,13 @@ website:
         href: personal_skills.qmd
       - text: Publications
         href: publications.qmd
-      - text: CV
+      - text: Resumé
         href: curriculum.qmd
     right:
       - icon: github
         href: https://github.com/ssswzh
       - icon: envelope
-        href: "to:aristazhang521@outlook.com"
+        href: "mailto:aristazhang521@outlook.com"
 
 format:
   html:

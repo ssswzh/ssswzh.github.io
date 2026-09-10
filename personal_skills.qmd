@@ -119,6 +119,10 @@ Below is a snapshot of the core skills I apply across translational bioinformati
     <strong>Keras</strong>
   </div>
   <div class="skill-card">
+    <img src="/assets/skills/logo-ML-pytorch.png" alt="PyTorch icon" style="width:78px">
+    <strong>PyTorch</strong>
+  </div>
+  <div class="skill-card">
     <img src="/assets/skills/logo-ML-huggingface.png" alt="HuggingFace icon">
     <strong>HuggingFace</strong>
   </div>

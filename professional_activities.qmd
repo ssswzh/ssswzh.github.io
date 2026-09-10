@@ -6,9 +6,9 @@ format:
     css: styles.css
 ---
 
-I facilitate enablement programs so R&D, clinical, and data teams can run complex bioinformatics workflows with confidence. 
+I build end-to-end analytical solutions that turn complex biomedical data into reliable, actionable insights. Across my roles, I have focused on solving difficult problems in translational genomics, clinical analytics, and scalable data workflows—often combining statistical modeling, workflow engineering, and domain expertise to improve decision quality and operational efficiency.
 
-Below is a snapshot of my interested fields and topics across recent roles.
+Below is a concise summary of the outcomes and impact from my recent roles.
 
 
 # Precision Scientific · 2021–2024
