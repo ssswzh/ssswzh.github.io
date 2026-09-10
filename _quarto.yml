@@ -11,12 +11,12 @@ website:
     background: "#023a75ff"
     foreground: "#ffffffff"
     left:
-      - text: Bioinformatics
-        href: professional_activities.qmd
       # - text: Projects
       #   href: projects.qmd
       - text: Skills
         href: personal_skills.qmd
+      - text: Bioinformatics
+        href: bioinformatics.qmd
       - text: Publications
         href: publications.qmd
       - text: Resumé
