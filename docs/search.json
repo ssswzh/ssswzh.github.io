@@ -35,18 +35,18 @@
     "text": "Programming Languages\n\n  \n    \n    Python\n  \n  \n    \n    R\n  \n  \n    \n    Shell scripting\n  \n  \n    \n    SQL (MySQL)\n  \n  \n    \n    C (basic)\n  \n    \n    \n    Java (basic)"
   },
   {
-    "objectID": "personal_skills.html#visualization-analytics",
-    "href": "personal_skills.html#visualization-analytics",
-    "title": "🧠 Skills",
-    "section": "Visualization & Analytics",
-    "text": "Visualization & Analytics\n\n  \n    \n    Matplotlib\n  \n  \n    \n    Seaborn\n  \n  \n    \n    ggplot2\n  \n  \n    \n    Plotly\n  \n  \n    \n    Folium\n  \n  \n    \n    Tableau (basic)"
-  },
-  {
     "objectID": "personal_skills.html#machine-learning",
     "href": "personal_skills.html#machine-learning",
     "title": "🧠 Skills",
     "section": "Machine Learning",
     "text": "Machine Learning\n\n  \n    \n    Sci-kit Learn\n  \n  \n    \n    TensorFlow\n  \n  \n    \n    Keras\n  \n  \n    \n    PyTorch\n  \n  \n    \n    HuggingFace"
+  },
+  {
+    "objectID": "personal_skills.html#visualization-analytics",
+    "href": "personal_skills.html#visualization-analytics",
+    "title": "🧠 Skills",
+    "section": "Visualization & Analytics",
+    "text": "Visualization & Analytics\n\n  \n    \n    Matplotlib\n  \n  \n    \n    Seaborn\n  \n  \n    \n    ggplot2\n  \n  \n    \n    Plotly\n  \n  \n    \n    Folium\n  \n  \n    \n    Tableau (basic)"
   },
   {
     "objectID": "personal_skills.html#bioinformatics-omics",
@@ -67,104 +67,34 @@
     "href": "curriculum.html",
     "title": "📜 Resumé",
     "section": "",
-    "text": "Download CV (.pdf)   Latest update: January 2026\n\n\nView First Year Transcript (.pdf)   Latest update: September 2026"
+    "text": "Download CV (.pdf)   Latest update: September 2026\n\n\nView First Year Transcript (.pdf)   Latest update: September 2026"
   },
   {
     "objectID": "bioinformatics.html",
     "href": "bioinformatics.html",
     "title": "👩‍🏫 Professional Activities",
     "section": "",
-    "text": "I build end-to-end analytical solutions that turn complex biomedical data into reliable, actionable insights. Across my roles, I have focused on solving difficult problems in translational genomics, clinical analytics, and scalable data workflows—often combining statistical modeling, workflow engineering, and domain expertise to improve decision quality and operational efficiency.\nBelow is a concise summary of the outcomes and impact from my recent roles."
-  },
-  {
-    "objectID": "bioinformatics.html#cancer-auxiliary-diagnosis-enablement",
-    "href": "bioinformatics.html#cancer-auxiliary-diagnosis-enablement",
-    "title": "👩‍🏫 Professional Activities",
-    "section": "Cancer auxiliary diagnosis enablement",
-    "text": "Cancer auxiliary diagnosis enablement\n2022-2024\n\n\nMRD\n\n\nHRD\n\n\nWGD\n\n\nML\n\n\nPipeline\n\n\nAnalytics\n\n\n\nDesigned and productionized circulating tumor DNA–based Minimal Residule Diesase (MRD) pipelines (study design → feature engineering → data analysis → statistical reporting).\nDelivered 4 clinical MRD studies and translated results into regulatory-ready reports; one outcome presented at SGO 2024; co-authored 2 manuscripts (one published).\nAnalyzed whole-genome doubling (WGD) using low-pass whole genome sequencing (WGS) in ~1× coverage; standardized WGD definitions across four studies.\nBuilt machine learning classifiers using platelet RNA-seq data to differentiate uterine sarcoma vs. leiomyoma; conducted end-to-end analysis workflow (RNA-seq preprocessing → feature engineering → model evaluation → biomarker detection).\nContributed to the national HRD reference standard project led by China’s National Institutes for Food and Drug Control.\n\nSlides | Pipeline diagram | Example ROC/metrics"
-  },
-  {
-    "objectID": "bioinformatics.html#cell-gene-therapy-bioinformatics",
-    "href": "bioinformatics.html#cell-gene-therapy-bioinformatics",
-    "title": "👩‍🏫 Professional Activities",
-    "section": "Cell & gene therapy bioinformatics",
-    "text": "Cell & gene therapy bioinformatics\n2023-2024\n\n\nCell therapy\n\n\nAAV\n\n\nOff-target\n\n\nCRISPR\n\n\n\nBuilt analysis workflows for viral integration site mapping, AAV mutation detection, and CRISPR off-target assessments.\nSupport product development and clinical trials for 5 cell & gene therapy products.\n\nSlides | Pipeline diagram | Example ROC/metrics"
-  },
-  {
-    "objectID": "bioinformatics.html#bioinformatics-workflow-automation",
-    "href": "bioinformatics.html#bioinformatics-workflow-automation",
-    "title": "👩‍🏫 Professional Activities",
-    "section": "Bioinformatics workflow automation",
-    "text": "Bioinformatics workflow automation\n2021-2022\n\n\nWDL/Cromwell\n\n\nCloud computing\n\n\nWorkflow automation\n\n\n\nDesigned and productionized an integrated bioinformatics pipeline for cancer genomics using the Workflow Description Language (WDL) and Cromwell; automated data processing and analysis workflows on the cloud (Alibaba Cloud).\nDeveloped seperated WDL modules for each step of the pipeline in a high flexible framework, testified and validated the consistency of the pipeline outputs.\nReduced the pipeline runtime by 50% and cost by 50%.\n\nSlides | Pipeline diagram | Example ROC/metrics"
-  },
-  {
-    "objectID": "bioinformatics.html#rare-disease-diagnosis",
-    "href": "bioinformatics.html#rare-disease-diagnosis",
-    "title": "👩‍🏫 Professional Activities",
-    "section": "Rare disease diagnosis",
-    "text": "Rare disease diagnosis\n2019–2021\n\n\nTGS\n\n\nDMD\n\n\nSNV/InDel\n\n\nSV\n\n\n\nLed development of China’s first targeted capture panel for third-generation sequencing for Duchenne muscular dystrophy (DMD).\nAchieved improved sensitivity and accuracy for SV, SNV, and InDel detection compared to gold-standard approaches.\nRealized workflow automation, conducted 4 studies, and published 2 papers.\n\nSlides | Pipeline diagram | Performance comparison plots"
-  },
-  {
-    "objectID": "bioinformatics.html#pathogen-surveillance-and-diagnosis",
-    "href": "bioinformatics.html#pathogen-surveillance-and-diagnosis",
-    "title": "👩‍🏫 Professional Activities",
-    "section": "Pathogen surveillance and diagnosis",
-    "text": "Pathogen surveillance and diagnosis\n2020-2021\n\n\nCOVID-19\n\n\nPathogen\n\n\nGalaxy\n\n\nEpidemiology\n\n\n\nBuilt a Galaxy-based pathogen surveillance system during COVID-19 for mutation tracking, lineage analysis, and visualization\nDesigned targeted amplification kits covering 30 respiratory pathogens.\nImplemented end-to-end pipelines for identification, automated reporting, and interactive dashboards.\nDelivered analysis tools accessible to wet-lab and clinical users.\n\nSlides | Dashboard demo | Workflow diagram"
-  },
-  {
-    "objectID": "bioinformatics.html#sequencing-technology-benchmarking",
-    "href": "bioinformatics.html#sequencing-technology-benchmarking",
-    "title": "👩‍🏫 Professional Activities",
-    "section": "Sequencing technology benchmarking",
-    "text": "Sequencing technology benchmarking\n2019-2020\n\n\nNanopore\n\n\nPacBio\n\n\nIllumina\n\n\nGalaxy\n\n\n\nConducted systematic benchmarking of basecalling and variant accuracy across sequencing platforms\nCompared Nanopore R9 vs. R10 chemistry performance\nEvaluated Nanopore vs. PacBio vs. Illumina for SNV, InDel, and structural variant detection\n\nSlides | Accuracy plots | Benchmark report"
-  },
-  {
-    "objectID": "bioinformatics.html#oncology-assay-biomarker-panel-development",
-    "href": "bioinformatics.html#oncology-assay-biomarker-panel-development",
-    "title": "👩‍🏫 Professional Activities",
-    "section": "Oncology Assay & Biomarker Panel Development",
-    "text": "Oncology Assay & Biomarker Panel Development\n2018–2019\n\n\nTargeted sequencing\n\n\nCNV\n\n\nMSI\n\n\nClinical diagnostics\n\n\n\nDeveloped targeted amplification panel for lung cancer biomarkers; established CNV baseline thresholds using MAD-based normalization.\nImplemented MSI profiling and visualization for genomic instability assessment\nDelivered reproducible analysis workflows for clinical reporting.\n\nSlides | Panel design | QC plots"
-  },
-  {
-    "objectID": "bioinformatics.html#multi-omics-analysis-in-developmental-biology",
-    "href": "bioinformatics.html#multi-omics-analysis-in-developmental-biology",
-    "title": "👩‍🏫 Professional Activities",
-    "section": "Multi-omics Analysis in Developmental Biology",
-    "text": "Multi-omics Analysis in Developmental Biology\n2017–2018\n\n\nRNA-seq\n\n\nMethylation\n\n\nPathway\n\n\n\nPerformed differential expression and methylation analysis of mouse oocytes (in vitro vs. in vivo; GV vs. MII); identified key transcription factors and maturation-associated pathways\nIntegrated transcriptomic and epigenomic signals to characterize developmental regulation.\nGenerated interpretable visualizations and biological summaries for collaborators.\n\nSlides | Heatmaps | Pathway analysis"
-  },
-  {
-    "objectID": "bioinformatics.html#clinical-cancer-genomics-survival-analysis",
-    "href": "bioinformatics.html#clinical-cancer-genomics-survival-analysis",
-    "title": "👩‍🏫 Professional Activities",
-    "section": "Clinical Cancer Genomics & Survival Analysis",
-    "text": "Clinical Cancer Genomics & Survival Analysis\n2017–2018\n\n\nTargeted sequencing\n\n\nSNV/InDel\n\n\nMSI\n\n\nTMB\n\n\n\nConducted retrospective gastric cancer genomics analysis across SNV, InDel, CNV, MSI, and TMB.\nEvaluated clinical correlations and survival outcomes using Kaplan–Meier analysis.\nSupported biomarker interpretation for translational research studies.\n\nSlides | KM curves | Cohort report"
+    "text": "I have spent 7+ years building bioinformatics and data science workflows for clinical genomics, translational research, rare disease diagnosis, and pathogen surveillance. My work focuses on turning high-dimensional biomedical data into validated, reproducible, and decision-ready analytical systems.\n\nPrecision Scientific · 2021–2024\nR&D | Middle bioinformatics engineer\n\nDelivered MRD/HRD analytics for oncology studies, including regulatory-ready reports and work presented at SGO 2024.\nBuilt platelet RNA-seq machine learning classifiers for differential diagnosis and biomarker discovery.\nProductionized WDL/Cromwell cloud workflows for cancer genomics, reducing both runtime and cost by 50%.\nSupported bioinformatics analysis for 5 cell and gene therapy products.\n\n\n\nDetails\n\n\nCancer auxiliary diagnosis enablement\n\n\n\n\n\nDesigned and productionized circulating tumor DNA-based Minimal Residual Disease (MRD) pipelines, covering study design, feature engineering, data analysis, and statistical reporting.\n\n\nDelivered 4 clinical MRD studies and translated results into regulatory-ready reports; one outcome was presented at SGO 2024; co-authored 2 manuscripts, one published.\n\n\nAnalyzed whole-genome doubling (WGD) using low-pass whole-genome sequencing at around 1x coverage; standardized WGD definitions across four studies.\n\n\nBuilt machine learning classifiers using platelet RNA-seq data to differentiate uterine sarcoma from leiomyoma, covering preprocessing, feature engineering, model evaluation, and biomarker detection.\n\n\nContributed to the national HRD reference standard project led by China’s National Institutes for Food and Drug Control.\n\n\n\n\nCell and gene therapy bioinformatics\n\n\n\n\n\nBuilt analysis workflows for viral integration site mapping, AAV mutation detection, and CRISPR off-target assessment.\n\n\nSupported product development and clinical trials for 5 cell and gene therapy products.\n\n\n\n\nBioinformatics workflow automation\n\n\n\n\n\nDesigned and productionized an integrated bioinformatics pipeline for cancer genomics using WDL and Cromwell; automated data processing and analysis workflows on Alibaba Cloud.\n\n\nDeveloped modular WDL components for each pipeline step and validated output consistency.\n\n\nReduced pipeline runtime by 50% and cost by 50%.\n\n\n\n\n\n\nGrandOmics Biosciences · 2019–2021\nR&D | Middle bioinformatics engineer\n\nLed development of China’s first targeted capture panel for third-generation sequencing in Duchenne muscular dystrophy diagnosis.\nBuilt COVID-19 pathogen surveillance workflows for mutation tracking, lineage analysis, metagenomic detection, reporting, and visualization.\nBenchmarked Nanopore, PacBio, and Illumina sequencing platforms for SNV, InDel, and structural variant detection.\nContributed to 4 rare disease studies and 2 peer-reviewed publications.\n\n\n\nDetails\n\n\nRare disease diagnosis\n\n\n\n\nLed development of China’s first targeted capture panel for third-generation sequencing for Duchenne muscular dystrophy (DMD).\n\n\nImproved sensitivity and accuracy for SV, SNV, and InDel detection compared with gold-standard approaches.\n\n\nAutomated the workflow, conducted 4 studies, and published 2 papers.\n\n\n\n\nPathogen surveillance and diagnosis\n\n\n\n\nBuilt a Galaxy-based pathogen surveillance system during COVID-19 for mutation tracking, lineage analysis, and visualization.\n\n\nDesigned targeted amplification kits covering 30 respiratory pathogens.\n\n\nImplemented end-to-end pipelines for identification, automated reporting, and interactive dashboards.\n\n\nDelivered analysis tools accessible to wet-lab and clinical users.\n\n\n\n\nSequencing technology benchmarking\n\n\n\n\nConducted systematic benchmarking of basecalling and variant accuracy across sequencing platforms.\n\n\nCompared Nanopore R9 and R10 chemistry performance.\n\n\nEvaluated Nanopore, PacBio, and Illumina for SNV, InDel, and structural variant detection.\n\n\n\n\n\n\nGeneis Beijing · 2017–2019\nR&D | Bioinformatics engineer\n\nDeveloped oncology biomarker assays and reproducible analysis workflows for lung and gastric cancer studies.\nImplemented CNV, MSI, TMB, survival, RNA-seq, and methylation analyses for translational research.\nSupported clinical interpretation through validated thresholds, visualizations, and biological summaries.\nCo-authored early work on gene fusion detection and liquid-biopsy MSI analysis.\n\n\n\nDetails\n\n\nOncology assay and biomarker panel development\n\n\n\n\nDeveloped a targeted amplification panel for lung cancer biomarkers; established CNV baseline thresholds using MAD-based normalization.\n\n\nImplemented MSI profiling and visualization for genomic instability assessment.\n\n\nDelivered reproducible analysis workflows for clinical reporting.\n\n\n\n\nMulti-omics analysis in developmental biology\n\n\n\n\nPerformed differential expression and methylation analysis of mouse oocytes; identified key transcription factors and maturation-associated pathways.\n\n\nIntegrated transcriptomic and epigenomic signals to characterize developmental regulation.\n\n\nGenerated interpretable visualizations and biological summaries for collaborators.\n\n\n\n\nClinical cancer genomics and survival analysis\n\n\n\n\nConducted retrospective gastric cancer genomics analysis across SNV, InDel, CNV, MSI, and TMB.\n\n\nEvaluated clinical correlations and survival outcomes using Kaplan-Meier analysis.\n\n\nSupported biomarker interpretation for translational research studies."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Siwen Zhang",
     "section": "",
-    "text": "AI & Machine Learning | Data Science | Bioinformatics\nHi there, welcome to my website.\nI am a data scientist with 7+ years of bioinformatics engineering experience, now focusing on applied AI and machine learning. My work has always lived where data is noisy, high-dimensional, and consequential: clinical genomics, translational research, diagnostics, and healthcare analytics.\n\nMy story\nMy move toward AI is a natural extension of my bioinformatics work. In biomedical R&D, I learned to build models and pipelines under real constraints: limited samples, heterogeneous signals, strict validation, and decisions that need to be explainable to scientists and clinicians. That experience shaped my interest in machine learning systems that are robust, interpretable, and useful beyond benchmarks.\nProfessionally, I have delivered MRD and HRD analytics for oncology studies, built platelet RNA-seq classifiers for differential diagnosis, developed long-read sequencing workflows for rare disease detection, and created pathogen surveillance systems during COVID-19. I also productionized cloud-based WDL/Cromwell pipelines that reduced runtime and cost by 50%.\nSince fall 2025, I have been pursuing an MSc in Computer Science at Leiden University, specializing in Data Science. Now in my second year, my coursework spans agentic large language models, deep learning, reinforcement learning, AutoML, data mining, information retrieval, recommender systems, text mining, social network analysis, robotics, evolutionary algorithms, and optimization. My first-year average is 8.58 across 12 courses.\nI am currently seeking an AI or machine learning internship where I can combine rigorous data science, software engineering, and domain-aware problem solving.\n\n\nKey focus areas\n\nApplied machine learning and predictive modeling\nLarge language models and agentic AI\nInformation retrieval, recommender systems, and text mining\nScientific and healthcare data science\nTranslational bioinformatics and computational genomics\n\n\n\nProfessional snapshot\n\nPrecision Scientific (2021–2024): Delivered MRD/HRD analytics for oncology studies, built platelet RNA-seq ML classifiers, supported 5 cell and gene therapy products, and contributed to national reference-standard work.\nGrandOmics Biosciences (2019–2021): Led long-read targeted sequencing development for rare disease diagnosis, built COVID-19 pathogen surveillance workflows, and benchmarked Nanopore, PacBio, and Illumina platforms.\nGeneis Beijing (2017–2019): Developed oncology biomarker assays and reproducible genomic workflows for CNV, MSI, TMB, survival analysis, and multi-omics interpretation.\n\n\n\nEducation\n\nMSc Data Science (Computer Science) - Leiden University, The Netherlands (2025–2027)\nMSc Bioinformatics - The University of Edinburgh, UK (2015–2016)\nBEng Biomedical Engineering - Northeastern University, China (2011–2015)\n\n\n\nCertifications\n\nIBM Data Science Professional Certificate (Coursera)\n\n\n\nFurther links"
+    "text": "AI & Machine Learning | Data Science | Bioinformatics\nHi there, welcome to my website.\n\nMy story\nI am a data scientist with 7+ years of bioinformatics engineering experience, now focusing on applied AI and machine learning. My work has always lived where data is noisy, high-dimensional, and consequential: clinical genomics, translational research, diagnostics, and healthcare analytics. A concise summary of this work is available on the Bioinformatics page.\nMy move toward AI and machine learning comes from both long-standing curiosity and a clear professional direction: intelligent systems are becoming central to scientific discovery, healthcare, and real-world decision support. I am especially interested in building models that are robust, interpretable, and useful beyond benchmarks.\nSince fall 2025, I have been pursuing an MSc in Computer Science at Leiden University, specializing in Data Science. Now in my second year, I am looking for an AI or machine learning internship where I can combine rigorous data science, software engineering, and domain-aware problem solving. My first-year average grade is 8.58 across 12 courses; the transcript is available on the Resumé page.\n\n\nKey focus areas\n\nApplied machine learning and predictive modeling\nLarge language models and agentic AI\nInformation retrieval, recommender systems, and text mining\nScientific and healthcare data science\nTranslational bioinformatics and computational genomics\n\n\n\nEducation\n\nMSc Data Science (Computer Science) - Leiden University, The Netherlands (2025–2027)\nMSc Bioinformatics - The University of Edinburgh, UK (2015–2016)\nBEng Biomedical Engineering - Northeastern University, China (2011–2015)\n\nKey Courses\n\nAgentic Large Language Models\nAdvances in Data Mining\nAutomatic Machine Learning\nIntroduction to Deep Learning\nReinforcement Learning\nText Mining\nInformation Retrieval\n\n\n\nCertifications\n\nIBM Data Science Professional Certificate (Coursera)\n\n\n\nFurther links"
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "💻 Projects",
     "section": "",
-    "text": "I enjoy sharing applied bioinformatics lessons with clinical, regulatory, and engineering teams. Here are a few recent engagements."
+    "text": "Description\nProject still ongoing… Expect to share more soon!\n\nGit repo"
   },
   {
-    "objectID": "projects.html#bioinformatics-projects",
-    "href": "projects.html#bioinformatics-projects",
+    "objectID": "projects.html#a-creative-project-using-llms",
+    "href": "projects.html#a-creative-project-using-llms",
     "title": "💻 Projects",
-    "section": "Bioinformatics Projects",
-    "text": "Bioinformatics Projects\n\nMRD analytics for gynecologic oncology\nMarch 2024 |\n\nPresented platelet RNA-seq classifiers and tumor-informed ctDNA MRD workflows that support real-time decision-making for ovarian cancer trials.\nHighlighted lessons on cohort design, assay sensitivity, and explainable ML for translational research teams."
-  },
-  {
-    "objectID": "projects.html#machine-learning-projects",
-    "href": "projects.html#machine-learning-projects",
-    "title": "💻 Projects",
-    "section": "Machine Learning Projects",
-    "text": "Machine Learning Projects\n\nPathogen intelligence system for COVID-19\n2020 | GrandOmics Biosciences\n\nBuilt a Galaxy-based infrastructure for mutation tracking, lineage analysis, and metagenomic detection that was shared with epidemiology teams across China.\nConducted virtual workshops so public-health collaborators could customize dashboards and standardized reports.\n\n\n\nOpen-source knowledge sharing\nOngoing\n\nPublish reproducible notebooks showcasing WDL/Cromwell, Galaxy, and Python/R best practices for MRD, MSI, and pathogen surveillance projects.\nParticipate in GitHub and ResearchGate discussions focused on sequencing QC, workflow automation, and translational ML."
+    "section": "",
+    "text": "Description\nProject still ongoing… Expect to share more soon!\n\nGit repo"
   }
 ]

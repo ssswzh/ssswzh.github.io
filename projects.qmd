@@ -6,27 +6,18 @@ format:
     css: styles.css
 ---
 
-I enjoy sharing applied bioinformatics lessons with clinical, regulatory, and engineering teams. Here are a few recent engagements.
 
-## Bioinformatics Projects
+## A creative project using LLMs
 
-### MRD analytics for gynecologic oncology
-`March 2024 | `
+`Description`
 
-- Presented platelet RNA-seq classifiers and tumor-informed ctDNA MRD workflows that support real-time decision-making for ovarian cancer trials.
-- Highlighted lessons on cohort design, assay sensitivity, and explainable ML for translational research teams.
+Project still ongoing... Expect to share more soon!
 
+<p><a href="">Git repo</a>
 
-## Machine Learning Projects
+```{=html}
+<div class="img-container">
+  <img src="" alt="" width="100%" />
+</div>
+```
 
-### Pathogen intelligence system for COVID-19
-`2020 | GrandOmics Biosciences`
-
-- Built a Galaxy-based infrastructure for mutation tracking, lineage analysis, and metagenomic detection that was shared with epidemiology teams across China.
-- Conducted virtual workshops so public-health collaborators could customize dashboards and standardized reports.
-
-### Open-source knowledge sharing
-`Ongoing`
-
-- Publish reproducible notebooks showcasing WDL/Cromwell, Galaxy, and Python/R best practices for MRD, MSI, and pathogen surveillance projects.
-- Participate in GitHub and ResearchGate discussions focused on sequencing QC, workflow automation, and translational ML.
