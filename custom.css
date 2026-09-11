@@ -158,6 +158,41 @@
   margin: 0 auto;
 }
 
+.work-details {
+  margin: 1rem 0 2rem;
+  /* border-top: 1px solid #d9e2ec; */
+  /* padding-top: 0.75rem; */
+  border-bottom: 1px solid #d9e2ec;
+  padding-bottom: 1rem;
+}
+
+.work-details summary {
+  display: inline-flex;
+  align-items: center;
+  cursor: pointer;
+  padding: 0.35rem 0.8rem;
+  border: 1px solid #023A75;
+  border-radius: 0.35rem;
+  color: #023A75;
+  font-weight: 700;
+  line-height: 1.2;
+  user-select: none;
+}
+
+.work-details summary:hover {
+  background-color: #eef5ff;
+}
+
+.work-details[open] summary {
+  margin-bottom: 1rem;
+  background-color: #023A75;
+  color: #fff;
+}
+
+.work-details h2 {
+  margin-top: 1.5rem;
+}
+
 @media (min-width: 992px) {
   /* Main article column on pages with a margin TOC. Adjust margin-right to tune space for sidebar. */
   .page-layout-article main.content {
