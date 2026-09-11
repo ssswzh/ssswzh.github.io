@@ -71,6 +71,34 @@ Below is a snapshot of the core skills I apply across translational bioinformati
 </div>
 ```
 
+## Machine Learning
+
+```{=html}
+<div class="skill-grid">
+  <div class="skill-card">
+    <img src="/assets/skills/logo-ML-scikit_learn.png" alt="Sklearn icon" style="width:78px">
+    <strong>Sci-kit Learn</strong>
+  </div>
+  <div class="skill-card">
+    <img src="/assets/skills/logo-ML-TensorFlow.png" alt="TensorFlow icon">
+    <strong>TensorFlow</strong>
+  </div>
+  <div class="skill-card">
+    <img src="/assets/skills/logo-ML-Keras.png" alt="Keras icon">
+    <strong>Keras</strong>
+  </div>
+  <div class="skill-card">
+    <img src="/assets/skills/logo-ML-pytorch.png" alt="PyTorch icon" style="width:78px">
+    <strong>PyTorch</strong>
+  </div>
+  <div class="skill-card">
+    <img src="/assets/skills/logo-ML-huggingface.png" alt="HuggingFace icon">
+    <strong>HuggingFace</strong>
+  </div>
+</div>
+```
+
+
 ## Visualization & Analytics
 
 ```{=html}
@@ -101,34 +129,6 @@ Below is a snapshot of the core skills I apply across translational bioinformati
   </div>
 </div>
 ```
-
-## Machine Learning
-
-```{=html}
-<div class="skill-grid">
-  <div class="skill-card">
-    <img src="/assets/skills/logo-ML-scikit_learn.png" alt="Sklearn icon" style="width:78px">
-    <strong>Sci-kit Learn</strong>
-  </div>
-  <div class="skill-card">
-    <img src="/assets/skills/logo-ML-TensorFlow.png" alt="TensorFlow icon">
-    <strong>TensorFlow</strong>
-  </div>
-  <div class="skill-card">
-    <img src="/assets/skills/logo-ML-Keras.png" alt="Keras icon">
-    <strong>Keras</strong>
-  </div>
-  <div class="skill-card">
-    <img src="/assets/skills/logo-ML-pytorch.png" alt="PyTorch icon" style="width:78px">
-    <strong>PyTorch</strong>
-  </div>
-  <div class="skill-card">
-    <img src="/assets/skills/logo-ML-huggingface.png" alt="HuggingFace icon">
-    <strong>HuggingFace</strong>
-  </div>
-</div>
-```
-
 
 ## Bioinformatics & Omics
 
