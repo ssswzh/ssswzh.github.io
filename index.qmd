@@ -23,17 +23,14 @@ format:
 
 Hi there, welcome to my website.
 
-I am a data scientist with 7+ years of bioinformatics engineering experience, now focusing on applied AI and machine learning. My work has always lived where data is noisy, high-dimensional, and consequential: clinical genomics, translational research, diagnostics, and healthcare analytics.
-
 ### My story
 
-My move toward AI is a natural extension of my bioinformatics work. In biomedical R&D, I learned to build models and pipelines under real constraints: limited samples, heterogeneous signals, strict validation, and decisions that need to be explainable to scientists and clinicians. That experience shaped my interest in machine learning systems that are robust, interpretable, and useful beyond benchmarks.
+I am a data scientist with 7+ years of bioinformatics engineering experience, now focusing on applied AI and machine learning. My work has always lived where data is noisy, high-dimensional, and consequential: clinical genomics, translational research, diagnostics, and healthcare analytics. A concise summary of this work is available on the [Bioinformatics](bioinformatics.qmd) page.
 
-Professionally, I have delivered MRD and HRD analytics for oncology studies, built platelet RNA-seq classifiers for differential diagnosis, developed long-read sequencing workflows for rare disease detection, and created pathogen surveillance systems during COVID-19. I also productionized cloud-based WDL/Cromwell pipelines that reduced runtime and cost by 50%.
+My move toward **AI and machine learning** comes from both long-standing curiosity and a clear professional direction: intelligent systems are becoming central to scientific discovery, healthcare, and real-world decision support. I am especially interested in building models that are **robust, interpretable, and useful beyond benchmarks**.
 
-Since fall 2025, I have been pursuing an MSc in Computer Science at Leiden University, specializing in Data Science. Now in my second year, my coursework spans agentic large language models, deep learning, reinforcement learning, AutoML, data mining, information retrieval, recommender systems, text mining, social network analysis, robotics, evolutionary algorithms, and optimization. My first-year average is 8.58 across 12 courses.
+Since fall 2025, I have been pursuing an MSc in Computer Science at Leiden University, specializing in Data Science. **Now in my second year, I am looking for an AI or machine learning internship** where I can combine rigorous data science, software engineering, and domain-aware problem solving. **My first-year average grade is 8.58 across 12 courses**; the transcript is available on the [Resumé](curriculum.qmd) page.
 
-I am currently seeking an AI or machine learning internship where I can combine rigorous data science, software engineering, and domain-aware problem solving.
 
 ### Key focus areas
 
@@ -43,17 +40,22 @@ I am currently seeking an AI or machine learning internship where I can combine 
 - Scientific and healthcare data science
 - Translational bioinformatics and computational genomics
 
-### Professional snapshot
-
-- Precision Scientific (2021–2024): Delivered MRD/HRD analytics for oncology studies, built platelet RNA-seq ML classifiers, supported 5 cell and gene therapy products, and contributed to national reference-standard work.
-- GrandOmics Biosciences (2019–2021): Led long-read targeted sequencing development for rare disease diagnosis, built COVID-19 pathogen surveillance workflows, and benchmarked Nanopore, PacBio, and Illumina platforms.
-- Geneis Beijing (2017–2019): Developed oncology biomarker assays and reproducible genomic workflows for CNV, MSI, TMB, survival analysis, and multi-omics interpretation.
 
 ### Education
 
 - MSc Data Science (Computer Science) - Leiden University, The Netherlands (2025–2027)
 - MSc Bioinformatics - The University of Edinburgh, UK (2015–2016)
 - BEng Biomedical Engineering - Northeastern University, China (2011–2015)
+
+**Key Courses**
+
+- Agentic Large Language Models
+- Advances in Data Mining
+- Automatic Machine Learning
+- Introduction to Deep Learning
+- Reinforcement Learning
+- Text Mining
+- Information Retrieval
 
 
 ### Certifications
