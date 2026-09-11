@@ -6,6 +6,6 @@ format:
     css: styles.css
 ---
 
-> [Download CV (.pdf)](/assets/Resume_SiwenZHANG.pdf) &emsp; Latest update: January 2026
+> [Download CV (.pdf)](/assets/Resume_SiwenZHANG_AI.pdf) &emsp; Latest update: September 2026
 
 > [View First Year Transcript (.pdf)](/assets/Transcript_first_year-ZHANG.pdf) &emsp; Latest update: September 2026
