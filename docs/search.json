@@ -18,7 +18,7 @@
     "href": "publications.html#patents",
     "title": "📣 Publications & Patents",
     "section": "Patents",
-    "text": "Patents\n\nCN112593015B (2023) — Liquid-biopsy–based MRD and MSI analytics for gynecological oncology.\nCN108304693B (2022) — Methods and systems for highly accurate detection of genomic alterations in oncology samples.\nCN108949757B (2021) — Targeted amplification workflow improvements for structural variation profiling via third-generation sequencing."
+    "text": "Patents\n\nCN112593015B (2023) — Liquid-biopsy–based MRD and MSI analytics for gynecological oncology. [Link]\nCN108304693B (2022) — Methods and systems for highly accurate detection of genomic alterations in oncology samples. [Link]\nCN108949757B (2021) — Targeted amplification workflow improvements for structural variation profiling via third-generation sequencing. [Link]"
   },
   {
     "objectID": "personal_skills.html",
@@ -81,20 +81,41 @@
     "href": "index.html",
     "title": "Siwen Zhang",
     "section": "",
-    "text": "AI & Machine Learning | Data Science | Bioinformatics\nHi there, welcome to my website.\n\nMy story\nI am a data scientist with 7+ years of bioinformatics engineering experience, now focusing on applied AI and machine learning. My work has always lived where data is noisy, high-dimensional, and consequential: clinical genomics, translational research, diagnostics, and healthcare analytics. A concise summary of this work is available on the Bioinformatics page.\nMy move toward AI and machine learning comes from both long-standing curiosity and a clear professional direction: intelligent systems are becoming central to scientific discovery, healthcare, and real-world decision support. I am especially interested in building models that are robust, interpretable, and useful beyond benchmarks.\nSince fall 2025, I have been pursuing an MSc in Computer Science at Leiden University, specializing in Data Science. Now in my second year, I am looking for an AI or machine learning internship where I can combine rigorous data science, software engineering, and domain-aware problem solving. My first-year average grade is 8.58 across 12 courses; the transcript is available on the Resumé page.\n\n\nKey focus areas\n\nApplied machine learning and predictive modeling\nLarge language models and agentic AI\nInformation retrieval, recommender systems, and text mining\nScientific and healthcare data science\nTranslational bioinformatics and computational genomics\n\n\n\nEducation\n\nMSc Data Science (Computer Science) - Leiden University, The Netherlands (2025–2027)\nMSc Bioinformatics - The University of Edinburgh, UK (2015–2016)\nBEng Biomedical Engineering - Northeastern University, China (2011–2015)\n\nKey Courses\n\nAgentic Large Language Models\nAdvances in Data Mining\nAutomatic Machine Learning\nIntroduction to Deep Learning\nReinforcement Learning\nText Mining\nInformation Retrieval\n\n\n\nCertifications\n\nIBM Data Science Professional Certificate (Coursera)\n\n\n\nFurther links"
+    "text": "AI & Machine Learning | Data Science | Bioinformatics\nHi there, welcome to my website.\n\nMy story\nI am a data scientist with 7+ years of bioinformatics engineering experience, now focusing on applied AI and machine learning. My work has always lived where data is noisy, high-dimensional, and consequential: clinical genomics, translational research, diagnostics, and healthcare analytics. A concise summary of this work is available on the Bioinformatics page.\nMy move toward AI and machine learning comes from both long-standing curiosity and a clear professional direction: intelligent systems are becoming central to scientific discovery, healthcare, and real-world decision support. I am especially interested in building models that are robust, interpretable, and useful beyond benchmarks.\nSince fall 2025, I have been pursuing an MSc in Computer Science at Leiden University, specializing in Data Science. Now in my second year, I am looking for an AI or machine learning internship where I can combine rigorous data science, software engineering, and domain-aware problem solving. My first-year average grade is 8.5/10 across 12 courses; the transcript is available on the Resumé page.\n\n\nKey focus areas\n\nApplied machine learning and predictive modeling\nLarge language models and agentic AI\nInformation retrieval, recommender systems, and text mining\nScientific and healthcare data science\nTranslational bioinformatics and computational genomics\n\n\n\nEducation\n\nMSc Data Science (Computer Science) - Leiden University, The Netherlands (2025–2027)\nMSc Bioinformatics - The University of Edinburgh, UK (2015–2016)\nBEng Biomedical Engineering - Northeastern University, China (2011–2015)\n\nKey Courses\n\nAgentic Large Language Models\nAdvances in Data Mining\nAutomatic Machine Learning\nIntroduction to Deep Learning\nReinforcement Learning\nText Mining\nInformation Retrieval\n\n\n\nCertifications\n\nIBM Data Science Professional Certificate (Coursera)\n\n\n\nFurther links"
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "💻 Projects",
     "section": "",
-    "text": "Description\nProject still ongoing… Expect to share more soon!\n\nGit repo"
+    "text": "Robotics | Computer Vision | Speech Recognition | Actuator Control | Human-Robot Interaction\n\nBuilt a ROS 2 robotic cat integrating vision, speech, navigation, and actuator control.\nImplemented person following, object search, autonomous docking, and state-based behaviors.\nAdded expressive head, ear, and sound responses for interactive human-robot interaction.\n\n\nVideo | Code"
   },
   {
-    "objectID": "projects.html#a-creative-project-using-llms",
-    "href": "projects.html#a-creative-project-using-llms",
+    "objectID": "projects.html#sass-robot-cat",
+    "href": "projects.html#sass-robot-cat",
     "title": "💻 Projects",
     "section": "",
-    "text": "Description\nProject still ongoing… Expect to share more soon!\n\nGit repo"
+    "text": "Robotics | Computer Vision | Speech Recognition | Actuator Control | Human-Robot Interaction\n\nBuilt a ROS 2 robotic cat integrating vision, speech, navigation, and actuator control.\nImplemented person following, object search, autonomous docking, and state-based behaviors.\nAdded expressive head, ear, and sound responses for interactive human-robot interaction.\n\n\nVideo | Code"
+  },
+  {
+    "objectID": "projects.html#reinforcement-learning-algorithms-for-cartpole-problem",
+    "href": "projects.html#reinforcement-learning-algorithms-for-cartpole-problem",
+    "title": "💻 Projects",
+    "section": "Reinforcement Learning Algorithms for CartPole Problem",
+    "text": "Reinforcement Learning Algorithms for CartPole Problem\nReinforcement Learning | Deep Q-Network | Actor Critic | A2C | Proximal Policy Optimization\n\nImplemented Naive DQN, REINFORCE, AC, A2C, and PPO in CartPole environment.\nSeveral engineering tricks were applied to improve performance and stability, including mini-batch update, multiple epochs, generalized advantage estimation (GAE), advantage normalization and entropy regularization.\nPPO achieves the best overall performance, reaching the maximum return quickly and maintaining the most stable learning curve.\nClipped policy updates, variance reduction, and practical implementation techniques such as GAE and mini-batch optimization are important for stable policy learning.\nThe transition from value-based to policy-based to advanced policy-based methods suggests the evolution of reinforcement learning methods on providing greater flexibility and more expressive decision-making strategies."
+  },
+  {
+    "objectID": "projects.html#recommendation-challenge-for-amazon-products",
+    "href": "projects.html#recommendation-challenge-for-amazon-products",
+    "title": "💻 Projects",
+    "section": "Recommendation Challenge for Amazon Products",
+    "text": "Recommendation Challenge for Amazon Products\nRecommendation System | Sequential User Behavior | SASRec | BERT4Rec | LightGCN\n\nBuilt a Top-10 Amazon product recommender for a Kaggle competition, evaluated by Recall@10.\nCompared SASRec, BERT4Rec, SASRec+, and LightGCN on temporally ordered user sequences.\nDesigned a multi-stage pipeline with metadata-based candidate filtering and SASRec ranking.\nRanked 8th/60 on the Kaggle leaderboard with the final SASRec-based recommendation system.\n\n\nKaggle"
+  },
+  {
+    "objectID": "projects.html#evolutionary-algorithm-on-black-box-problems",
+    "href": "projects.html#evolutionary-algorithm-on-black-box-problems",
+    "title": "💻 Projects",
+    "section": "Evolutionary Algorithm on Black-box Problems",
+    "text": "Evolutionary Algorithm on Black-box Problems\nGenetic Algorithm | Evolutionary Strategy | Optimization | Black-box Problems\n\nImplemented Genetic Algorithm (GA) and self-adaptive \\((\\mu,\\lambda)\\) Evolution Strategy (ES) from scratch for discrete and continuous optimization.\nApplied GA to LABS and N-Queens (Doerr et al. 2018; Wang et al. 2022; Nobel et al. 2021), and ES with log-normal step-size adaptation to the Katsuura problem.\nDesigned a budget-aware, step-wise hyperparameter tuning strategy to efficiently identify promising configurations.\nEvaluated convergence and robustness using EAF, ECDF, and Expected Runtime (ERT) across multiple runs."
   }
 ]

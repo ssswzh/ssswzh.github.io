@@ -20,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -69,6 +89,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="custom.css">
 <link rel="stylesheet" href="styles.css">
@@ -93,6 +142,10 @@ ul.task-list li input[type="checkbox"] {
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link active" href="./projects.html" aria-current="page"> 
+<span class="menu-text">Projects</span></a>
+  </li>  
   <li class="nav-item">
     <a class="nav-link" href="./personal_skills.html"> 
 <span class="menu-text">Skills</span></a>
@@ -137,7 +190,10 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#a-creative-project-using-llms" id="toc-a-creative-project-using-llms" class="nav-link active" data-scroll-target="#a-creative-project-using-llms">A creative project using LLMs</a></li>
+  <li><a href="#sass-robot-cat" id="toc-sass-robot-cat" class="nav-link active" data-scroll-target="#sass-robot-cat">SASS Robot Cat</a></li>
+  <li><a href="#reinforcement-learning-algorithms-for-cartpole-problem" id="toc-reinforcement-learning-algorithms-for-cartpole-problem" class="nav-link" data-scroll-target="#reinforcement-learning-algorithms-for-cartpole-problem">Reinforcement Learning Algorithms for CartPole Problem</a></li>
+  <li><a href="#recommendation-challenge-for-amazon-products" id="toc-recommendation-challenge-for-amazon-products" class="nav-link" data-scroll-target="#recommendation-challenge-for-amazon-products">Recommendation Challenge for Amazon Products</a></li>
+  <li><a href="#evolutionary-algorithm-on-black-box-problems" id="toc-evolutionary-algorithm-on-black-box-problems" class="nav-link" data-scroll-target="#evolutionary-algorithm-on-black-box-problems">Evolutionary Algorithm on Black-box Problems</a></li>
   </ul>
 </nav>
     </div>
@@ -163,20 +219,77 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="a-creative-project-using-llms" class="level2">
-<h2 class="anchored" data-anchor-id="a-creative-project-using-llms">A creative project using LLMs</h2>
-<p><code>Description</code></p>
-<p>Project still ongoing… Expect to share more soon!</p>
+<section id="sass-robot-cat" class="level2">
+<h2 class="anchored" data-anchor-id="sass-robot-cat">SASS Robot Cat</h2>
+<p><code>Robotics</code> | <code>Computer Vision</code> | <code>Speech Recognition</code> | <code>Actuator Control</code> | <code>Human-Robot Interaction</code></p>
+<ul>
+<li>Built a ROS 2 robotic cat integrating vision, speech, navigation, and actuator control.</li>
+<li>Implemented person following, object search, autonomous docking, and state-based behaviors.</li>
+<li>Added expressive head, ear, and sound responses for interactive human-robot interaction.</li>
+</ul>
 <p>
-</p><p><a href="">Git repo</a></p>
-<div class="img-container">
-  <img src="" alt="" width="100%">
+<a href="https://www.youtube.com/watch?v=wJvU7m090wQ">Video</a> | <a href="https://github.com/ssswzh/SASS_cat">Code</a>
+</p>
+<div class="img-container" style="display: flex; gap: 2px; align-items: flex-start;">
+  <img src="./assets/projects/robot_cat-cat_body.jpg" alt="cat body" style="height: 300px; width: auto;">
+  <img src="./assets/projects/robot_cat-cat_face.jpg" alt="cat face" style="height: 300px; width: auto;">
+  <img src="./assets/projects/robot_cat-vision_detection.jpg" alt="YOLO detection" style="height: 300px; width: auto;">
 </div>
+</section>
+<section id="reinforcement-learning-algorithms-for-cartpole-problem" class="level2">
+<h2 class="anchored" data-anchor-id="reinforcement-learning-algorithms-for-cartpole-problem">Reinforcement Learning Algorithms for CartPole Problem</h2>
+<p><code>Reinforcement Learning</code> | <code>Deep Q-Network</code> | <code>Actor Critic</code> | <code>A2C</code> | <code>Proximal Policy Optimization</code></p>
+<ul>
+<li>Implemented Naive DQN, REINFORCE, AC, A2C, and PPO in CartPole environment.</li>
+<li>Several engineering tricks were applied to improve performance and stability, including mini-batch update, multiple epochs, generalized advantage estimation (GAE), advantage normalization and entropy regularization.</li>
+<li>PPO achieves the best overall performance, reaching the maximum return quickly and maintaining the most stable learning curve.</li>
+<li>Clipped policy updates, variance reduction, and practical implementation techniques such as GAE and mini-batch optimization are important for stable policy learning.</li>
+<li>The transition from value-based to policy-based to advanced policy-based methods suggests the evolution of reinforcement learning methods on providing greater flexibility and more expressive decision-making strategies.</li>
+</ul>
+<div class="img-container" style="display: flex; justify-content: flex-start; gap: 10px; align-items: flex-start;">
+  <img src="./assets/projects/reinforcement_learning-algo_comp.png" alt="algo comparison" width="70%">
+</div>
+</section>
+<section id="recommendation-challenge-for-amazon-products" class="level2">
+<h2 class="anchored" data-anchor-id="recommendation-challenge-for-amazon-products">Recommendation Challenge for Amazon Products</h2>
+<p><code>Recommendation System</code> | <code>Sequential User Behavior</code> | <code>SASRec</code> | <code>BERT4Rec</code> | <code>LightGCN</code></p>
+<ul>
+<li>Built a Top-10 Amazon product recommender for a Kaggle competition, evaluated by Recall@10.</li>
+<li>Compared SASRec, BERT4Rec, SASRec+, and LightGCN on temporally ordered user sequences.</li>
+<li>Designed a multi-stage pipeline with metadata-based candidate filtering and SASRec ranking.</li>
+<li>Ranked 8th/60 on the Kaggle leaderboard with the final SASRec-based recommendation system.</li>
+</ul>
+<p>
+</p><p><a href="https://www.kaggle.com/competitions/recommender-system-challenge-2526-s-2/overview">Kaggle</a></p>
+<div class="img-container" style="display: flex; justify-content: flex-start; gap: 10px; align-items: flex-start;">
+  <img src="assets/projects/recommender_system-kaggle_amazon.png" alt="kaggle amazon" width="50%">
+</div>
+</section>
+<section id="evolutionary-algorithm-on-black-box-problems" class="level2">
+<h2 class="anchored" data-anchor-id="evolutionary-algorithm-on-black-box-problems">Evolutionary Algorithm on Black-box Problems</h2>
+<p><code>Genetic Algorithm</code> | <code>Evolutionary Strategy</code> | <code>Optimization</code> | <code>Black-box Problems</code></p>
+<ul>
+<li>Implemented Genetic Algorithm (GA) and self-adaptive <span class="math inline">\((\mu,\lambda)\)</span> Evolution Strategy (ES) from scratch for discrete and continuous optimization.</li>
+<li>Applied GA to <a href="https://iohprofiler.github.io/IOHexp/">LABS and N-Queens</a> <span class="citation" data-cites="IOHprofiler IOHanalyzer IOHexperimenter">(<a href="#ref-IOHprofiler" role="doc-biblioref">Doerr et al. 2018</a>; <a href="#ref-IOHanalyzer" role="doc-biblioref">Wang et al. 2022</a>; <a href="#ref-IOHexperimenter" role="doc-biblioref">Nobel et al. 2021</a>)</span>, and ES with log-normal step-size adaptation to the Katsuura problem.</li>
+<li>Designed a budget-aware, step-wise hyperparameter tuning strategy to efficiently identify promising configurations.</li>
+<li>Evaluated convergence and robustness using EAF, ECDF, and Expected Runtime (ERT) across multiple runs.</li>
+</ul>
+
 
 
 </section>
 
-</main> <!-- /main -->
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-IOHprofiler" class="csl-entry" role="listitem">
+Doerr, Carola, Hao Wang, Furong Ye, Sander van Rijn, and Thomas Bäck. 2018. <span>“IOHprofiler: A Benchmarking and Profiling Tool for Iterative Optimization Heuristics.”</span> <em>arXiv e-Prints:1810.05281</em>, October. <a href="https://arxiv.org/abs/1810.05281">https://arxiv.org/abs/1810.05281</a>.
+</div>
+<div id="ref-IOHexperimenter" class="csl-entry" role="listitem">
+Nobel, Jacob de, Furong Ye, Diederick Vermetten, Hao Wang, Carola Doerr, and Thomas Bäck. 2021. <span>“IOHexperimenter: Benchmarking Platform for Iterative Optimization Heuristics.”</span> <em>arXiv e-Prints:2111.04077</em>, November. <a href="https://arxiv.org/abs/2111.04077">https://arxiv.org/abs/2111.04077</a>.
+</div>
+<div id="ref-IOHanalyzer" class="csl-entry" role="listitem">
+Wang, Hao, Diederick Vermetten, Furong Ye, Carola Doerr, and Thomas Bäck. 2022. <span>“IOHanalyzer: Detailed Performance Analyses for Iterative Optimization Heuristics.”</span> <em>ACM Transactions on Evolutionary Learning and Optimization</em> 2 (1). <a href="https://doi.org/10.1145/3510426">https://doi.org/10.1145/3510426</a>.
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
