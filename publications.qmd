@@ -65,6 +65,6 @@ Xu, H.†, Wu, X.†, Sun, D.†, Li, S.†, **Zhang, S.†**, *et al.* (**2018*
 
 ## Patents
 
-- **CN112593015B (2023)** — Liquid-biopsy–based MRD and MSI analytics for gynecological oncology.
-- **CN108304693B (2022)** — Methods and systems for highly accurate detection of genomic alterations in oncology samples.
-- **CN108949757B (2021)** — Targeted amplification workflow improvements for structural variation profiling via third-generation sequencing.
+- **CN112593015B (2023)** — Liquid-biopsy–based MRD and MSI analytics for gynecological oncology. [[Link]](https://patents.google.com/patent/CN112593015B/en)
+- **CN108304693B (2022)** — Methods and systems for highly accurate detection of genomic alterations in oncology samples. [[Link]](https://patents.google.com/patent/CN108304693B/en)
+- **CN108949757B (2021)** — Targeted amplification workflow improvements for structural variation profiling via third-generation sequencing. [[Link]](https://patents.google.com/patent/CN108949757B/en)
