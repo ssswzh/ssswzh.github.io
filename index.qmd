@@ -29,7 +29,7 @@ I am a data scientist with 7+ years of bioinformatics engineering experience, no
 
 My move toward **AI and machine learning** comes from both long-standing curiosity and a clear professional direction: intelligent systems are becoming central to scientific discovery, healthcare, and real-world decision support. I am especially interested in building models that are **robust, interpretable, and useful beyond benchmarks**.
 
-Since fall 2025, I have been pursuing an MSc in Computer Science at Leiden University, specializing in Data Science. **Now in my second year, I am looking for an AI or machine learning internship** where I can combine rigorous data science, software engineering, and domain-aware problem solving. **My first-year average grade is 8.58 across 12 courses**; the transcript is available on the [Resumé](curriculum.qmd) page.
+Since fall 2025, I have been pursuing an MSc in Computer Science at Leiden University, specializing in Data Science. **Now in my second year, I am looking for an AI or machine learning internship** where I can combine rigorous data science, software engineering, and domain-aware problem solving. **My first-year average grade is 8.5/10 across 12 courses**; the transcript is available on the [Resumé](curriculum.qmd) page.
 
 
 ### Key focus areas
