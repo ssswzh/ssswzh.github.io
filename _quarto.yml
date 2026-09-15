@@ -11,8 +11,8 @@ website:
     background: "#023a75ff"
     foreground: "#ffffffff"
     left:
-      # - text: Projects
-      #   href: projects.qmd
+      - text: Projects
+        href: projects.qmd
       - text: Skills
         href: personal_skills.qmd
       - text: Bioinformatics
