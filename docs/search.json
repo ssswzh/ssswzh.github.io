@@ -67,7 +67,7 @@
     "href": "curriculum.html",
     "title": "📜 Resumé",
     "section": "",
-    "text": "Download CV (.pdf)   Latest update: September 2026\n\n\nView First Year Transcript (.pdf)   Latest update: September 2026"
+    "text": "Download CV (.pdf)   Latest update: October 2026\n\n\nView First Year Transcript (.pdf)   Latest update: September 2026"
   },
   {
     "objectID": "bioinformatics.html",
@@ -109,7 +109,7 @@
     "href": "projects.html#recommendation-challenge-for-amazon-products",
     "title": "💻 Projects",
     "section": "Recommendation Challenge for Amazon Products",
-    "text": "Recommendation Challenge for Amazon Products\nRecommendation System | Sequential User Behavior | SASRec | BERT4Rec | LightGCN\n\nBuilt a Top-10 Amazon product recommender for a Kaggle competition, evaluated by Recall@10.\nCompared SASRec, BERT4Rec, SASRec+, and LightGCN on temporally ordered user sequences.\nDesigned a multi-stage pipeline with metadata-based candidate filtering and SASRec ranking.\nRanked 8th/60 on the Kaggle leaderboard with the final SASRec-based recommendation system.\n\n\nKaggle"
+    "text": "Recommendation Challenge for Amazon Products\nRecommendation System | Sequential User Behavior | SASRec | BERT4Rec | LightGCN\n\nBuilt a Top-10 Amazon product recommender for a Kaggle competition, evaluated by Recall@10.\nCompared SASRec, BERT4Rec, SASRec+, and LightGCN on temporally ordered user sequences.\nDesigned a multi-stage pipeline with metadata-based candidate filtering and SASRec ranking.\nRanked 8th/60 on the Kaggle leaderboard with the final SASRec-based recommendation system.\n\n\nKaggle Group 58"
   },
   {
     "objectID": "projects.html#evolutionary-algorithm-on-black-box-problems",

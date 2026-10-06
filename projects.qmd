@@ -50,7 +50,7 @@ bibliography: references.bib
 - Designed a multi-stage pipeline with metadata-based candidate filtering and SASRec ranking.
 - Ranked 8th/60 on the Kaggle leaderboard with the final SASRec-based recommendation system.
 
-<p><a href="https://www.kaggle.com/competitions/recommender-system-challenge-2526-s-2/overview">Kaggle</a>
+<p><a href="https://www.kaggle.com/competitions/recommender-system-challenge-2526-s-2/leaderboard">Kaggle Group 58</a>
 ```{=html}
 <div class="img-container" style="display: flex; justify-content: flex-start; gap: 10px; align-items: flex-start;">
   <img src="assets/projects/recommender_system-kaggle_amazon.png" alt="kaggle amazon" width="50%" />
