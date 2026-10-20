@@ -19,7 +19,7 @@ format:
     css: styles.css
 ---
 
-**AI & Machine Learning | Data Science | Bioinformatics**
+**Machine Learning | LLMs & Agentic AI | Biomedical Data Science & Healthcare**
 
 Hi there, welcome to my website.
 
@@ -27,19 +27,17 @@ Hi there, welcome to my website.
 
 I am a data scientist with 7+ years of bioinformatics engineering experience, now focusing on applied AI and machine learning. My work has always lived where data is noisy, high-dimensional, and consequential: clinical genomics, translational research, diagnostics, and healthcare analytics. A concise summary of this work is available on the [Bioinformatics](bioinformatics.qmd) page.
 
-My move toward **AI and machine learning** comes from both long-standing curiosity and a clear professional direction: intelligent systems are becoming central to scientific discovery, healthcare, and real-world decision support. I am especially interested in building models that are **robust, interpretable, and useful beyond benchmarks**.
+**My move toward AI and machine learning** comes from both long-standing curiosity and a clear professional direction: intelligent systems are becoming central to scientific discovery, healthcare, and real-world decision support. I am especially interested in building models that are robust, interpretable, and useful beyond benchmarks.
 
-Since fall 2025, I have been pursuing an MSc in Computer Science at Leiden University, specializing in Data Science. **Now in my second year, I am looking for an AI or machine learning internship** where I can combine rigorous data science, software engineering, and domain-aware problem solving. **My first-year average grade is 8.5/10 across 12 courses**; the transcript is available on the [Resumé](curriculum.qmd) page.
+Since fall 2025, I have been pursuing an MSc in Computer Science at Leiden University, specializing in Data Science. Building on my experience in biomedical research and data science, I am now **particularly interested in LLMs, agentic AI, and trustworthy information retrieval, especially their applications in healthcare**.
 
 
 ### Key focus areas
 
-- Applied machine learning and predictive modeling
-- Large language models and agentic AI
-- Information retrieval, recommender systems, and text mining
-- Scientific and healthcare data science
-- Translational bioinformatics and computational genomics
-
+- **Large Language Models & Agentic AI** — RAG, reasoning, and uncertainty-aware decision-making
+- **Machine Learning & Trustworthy AI** — deep learning, model evaluation, and reliability
+- **Biomedical AI & Healthcare Data Science** — medical AI applications, clinical data analysis, and predictive modeling
+- **Bioinformatics & Computational Genomics** — clinical genomics, biomarker discovery, and multi-omics analysis
 
 ### Education
 
