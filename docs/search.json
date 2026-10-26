@@ -88,7 +88,28 @@
     "href": "projects.html",
     "title": "💻 Projects",
     "section": "",
-    "text": "Recommendation System | Sequential User Behavior | SASRec | BERT4Rec | LightGCN\n\nBuilt a Top-10 Amazon product recommender for a Kaggle competition, evaluated by Recall@10.\nCompared SASRec, BERT4Rec, SASRec+, and LightGCN on temporally ordered user sequences.\nDesigned a multi-stage pipeline with metadata-based candidate filtering and SASRec ranking.\nRanked 8th/60 on the Kaggle leaderboard with the final SASRec-based recommendation system.\n\n\nKaggle Group 58"
+    "text": "Agent Evaluation | Brittleness | Harnessing | BALROG | ReAct | Reflection\n\nBuilt a reproducible BALROG evaluation pipeline for GPT-6.1-sol and Qwen3-4B-Instruct across BabyAI, TextWorld, and BabaIsAI, using seeded multi-episode experiments and automated performance reporting.\nDesigned a ReAct-inspired language agent with dynamic planning, structured action generation, short-term memory, and explicit detection of repeated actions and state loops.\nImplemented and evaluated a Reflexion-style agent that converts trial outcomes into verbal memory, comparing matched with/without-reflection conditions using trial-level progression."
+  },
+  {
+    "objectID": "projects.html#planning-and-reflection-for-agentic-llms",
+    "href": "projects.html#planning-and-reflection-for-agentic-llms",
+    "title": "💻 Projects",
+    "section": "",
+    "text": "Agent Evaluation | Brittleness | Harnessing | BALROG | ReAct | Reflection\n\nBuilt a reproducible BALROG evaluation pipeline for GPT-6.1-sol and Qwen3-4B-Instruct across BabyAI, TextWorld, and BabaIsAI, using seeded multi-episode experiments and automated performance reporting.\nDesigned a ReAct-inspired language agent with dynamic planning, structured action generation, short-term memory, and explicit detection of repeated actions and state loops.\nImplemented and evaluated a Reflexion-style agent that converts trial outcomes into verbal memory, comparing matched with/without-reflection conditions using trial-level progression."
+  },
+  {
+    "objectID": "projects.html#end-to-end-small-llm-development-with-nanochat",
+    "href": "projects.html#end-to-end-small-llm-development-with-nanochat",
+    "title": "💻 Projects",
+    "section": "End-to-End Small LLM Development with Nanochat",
+    "text": "End-to-End Small LLM Development with Nanochat\nLLM Training Pipeline | Instruction Fine-tuning | Model Evaluation | Nanochat | Tokenization\n\nTrained and compared 8K and 32K BPE tokenizers on 500MB of CLIMBMix data, then pre-trained a 13M-parameter Transformer while monitoring convergence through training and validation BPB.\nDesigned a two-stage post-training pipeline using MMLU and GSM8K for capability-focused mid-training, followed by supervised fine-tuning on SmolTalk with assistant-only loss masking.\nEvaluated model checkpoints on ARC-Easy, ARC-Challenge, and GSM8K, analyzed domain shift and catastrophic forgetting, and tested temperature sampling and KV caching through a web inference interface."
+  },
+  {
+    "objectID": "projects.html#recommendation-challenge-for-amazon-products",
+    "href": "projects.html#recommendation-challenge-for-amazon-products",
+    "title": "💻 Projects",
+    "section": "Recommendation Challenge for Amazon Products",
+    "text": "Recommendation Challenge for Amazon Products\nRecommendation System | Sequential User Behavior | SASRec | BERT4Rec | LightGCN\n\nBuilt a Top-10 Amazon product recommender for a Kaggle competition, evaluated by Recall@10.\nCompared SASRec, BERT4Rec, SASRec+, and LightGCN on temporally ordered user sequences.\nDesigned a multi-stage pipeline with metadata-based candidate filtering and SASRec ranking.\nRanked 8th/60 on the Kaggle leaderboard with the final SASRec-based recommendation system.\n\n\nKaggle Group 58"
   },
   {
     "objectID": "projects.html#sass-robot-cat",
@@ -102,14 +123,7 @@
     "href": "projects.html#reinforcement-learning-algorithms-for-cartpole-problem",
     "title": "💻 Projects",
     "section": "Reinforcement Learning Algorithms for CartPole Problem",
-    "text": "Reinforcement Learning Algorithms for CartPole Problem\nReinforcement Learning | Deep Q-Network | Actor Critic | A2C | Proximal Policy Optimization\n\nImplemented Naive DQN, REINFORCE, AC, A2C, and PPO in CartPole environment.\nSeveral engineering tricks were applied to improve performance and stability, including mini-batch update, multiple epochs, generalized advantage estimation (GAE), advantage normalization and entropy regularization.\nPPO achieves the best overall performance, reaching the maximum return quickly and maintaining the most stable learning curve.\nClipped policy updates, variance reduction, and practical implementation techniques such as GAE and mini-batch optimization are important for stable policy learning.\nThe transition from value-based to policy-based to advanced policy-based methods suggests the evolution of reinforcement learning methods on providing greater flexibility and more expressive decision-making strategies."
-  },
-  {
-    "objectID": "projects.html#recommendation-challenge-for-amazon-products",
-    "href": "projects.html#recommendation-challenge-for-amazon-products",
-    "title": "💻 Projects",
-    "section": "",
-    "text": "Recommendation System | Sequential User Behavior | SASRec | BERT4Rec | LightGCN\n\nBuilt a Top-10 Amazon product recommender for a Kaggle competition, evaluated by Recall@10.\nCompared SASRec, BERT4Rec, SASRec+, and LightGCN on temporally ordered user sequences.\nDesigned a multi-stage pipeline with metadata-based candidate filtering and SASRec ranking.\nRanked 8th/60 on the Kaggle leaderboard with the final SASRec-based recommendation system.\n\n\nKaggle Group 58"
+    "text": "Reinforcement Learning Algorithms for CartPole Problem\nReinforcement Learning | Deep Q-Network | Actor Critic | A2C | Proximal Policy Optimization\n\nImplemented Naive DQN, REINFORCE, AC, A2C, and PPO in CartPole environment.\nSeveral engineering tricks were applied to improve performance and stability, including mini-batch update, multiple epochs, generalized advantage estimation (GAE), advantage normalization and entropy regularizatio, which are important for stable policy learning.\nThe transition from value-based to policy-based to advanced policy-based methods suggests the evolution of reinforcement learning methods on providing greater flexibility and more expressive decision-making strategies."
   },
   {
     "objectID": "projects.html#evolutionary-algorithm-on-black-box-problems",
